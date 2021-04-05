@@ -1,0 +1,41 @@
+<?php
+require('phpdac7.php');
+$page = new pcntl('
+super javascript;
+
+load_extension adodb refby _ADODB_; 
+super database;
+
+/---------------------------------load and create libs
+use i18n.i18n;
+use jqgrid.jqgrid;
+
+/---------------------------------load not create dpc (internal use)
+include networlds.clientdpc;	
+
+/---------------------------------load all and create after dpc objects
+public jqgrid.mygrid;
+public cms.cmsrt;
+#ifdef SES_LOGIN
+public backup.rcfscanner;
+public cp.rcpmenu;
+#endif
+public cp.rccontrolpanel;
+public i18n.i18nL;
+
+',1);
+
+$cptemplate = _m('cmsrt.paramload use FRONTHTMLPAGE+cptemplate');
+
+	switch ($_GET['t']) {
+		case 'cprunaccsyncfile' : $p = 'cp-fscanner'; break;
+		case 'cprunaccfile'  : $p = 'cp-fscanner'; break;		
+		case 'cpmakeaccfile' : $p = $_GET['iframe'] ? 'cp-fscanner-detail' : 'cp-fscanner'; break;
+		case 'cpsreport'     : $p = 'cp-fscanner-detail'; break;
+		case 'cpscanrep'     : $p = $_GET['iframe'] ? 'cp-fscanner-detail' : 'cp-fscanner'; break;
+		default              : $p = $_GET['iframe'] ? 'cp-fscanner-detail' : 'cp-fscanner';
+	}
+	
+    $mc_page = (GetSessionParam('LOGIN')) ? $p : 'cp-login';
+	echo $page->render(null,getlocal(), null, $cptemplate.'/index.php');
+?>

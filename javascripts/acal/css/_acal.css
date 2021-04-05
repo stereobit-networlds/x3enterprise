@@ -1,0 +1,189 @@
+/* calendar styles */
+#calendar {
+    -moz-user-select: none;
+    border: 1px solid #EEEEEE;
+    border-radius: 6px 6px 6px 6px;
+    color: #333333;
+    font-family: Arial,sans-serif;
+    font-size: 1.1em;
+    margin: 10px auto;
+    padding: 0.4em;
+    width: 100%; /* 90% */
+}
+#calendar .navigation {
+    background-color: #CC0000;
+    border: 1px solid #E3A1A1;
+    border-radius: 6px 6px 6px 6px;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 1px;
+    position: relative;
+}
+#calendar .navigation .title {
+    background: none repeat scroll 0 0 transparent;
+    border-color: rgba(0, 0, 0, 0);
+    color: inherit;
+    line-height: 1.8em;
+    margin: 0 2.3em;
+    text-align: center;
+}
+#calendar .navigation .prev, #calendar .navigation .next {
+    background-image: url(../images/nav.png);
+    height: 24px;
+    opacity: 0.9;
+    position: absolute;
+    top: 4px;
+    width: 24px;
+}
+#calendar .navigation .prev {
+    background-position: 0 0;
+    left: 4px;
+}
+#calendar .navigation .next {
+    background-position: -24px 0;
+    right: 4px;
+}
+#calendar .navigation .prev:hover, #calendar .navigation .next:hover {
+    opacity: 1;
+}
+#calendar table {
+    border-collapse: collapse;
+    font-size: 0.9em;
+    table-layout: fixed;
+    width: 100%;
+}
+#calendar table th {
+    border: 0 none;
+    font-weight: bold;
+    padding: 0.7em 0.3em;
+    text-align: center;
+}
+#calendar table td {
+    border: 0 none;
+    padding: 1px;
+}
+#calendar table td a {
+    background-color: #EEEEEE;
+    border: 1px solid #D8DCDF;
+    color: #004276;
+    display: block;
+    font-weight: normal;
+    opacity: 0.7;
+    padding: 0.2em;
+    text-align: right;
+    text-decoration: none;
+}
+#calendar table td a:hover {
+    background-color: #F6F6F6;
+    border: 1px solid #CDD5DA;
+    color: #111111;
+}
+#calendar table td.current a {
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.currentreserved a {
+    background-color: #D2CFC6;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.today a {
+    background-color: #FBF8EE;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.todayreservedtoday a {
+    background-color: #DED9C8;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.project a {
+    background-color: #268bd2;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.projectreserved a {
+    background-color: #1B6192;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.projecttoday a {
+    background-color: #4DB1F7;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.projecttodayreservedtoday a {
+    background-color: #0D4F7D;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.urgent a {
+    background-color: #d33682;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.urgentreserved a {
+    background-color: #B8236B;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.urgenttoday a {
+    background-color: #F81985;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.urgenttodayreservedtoday a {
+    background-color: #9B1053;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.important a {
+    background-color: #b58900;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.importantreserved a {
+    background-color: #997401;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.importanttoday a {
+    background-color: #D8A401;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
+#calendar table td.importanttodayreservedtoday a {
+    background-color: #846401;
+    border: 1px solid #FCD3A1;
+    color: #444444;
+    font-weight: bold;
+    opacity: 1;
+}
