@@ -1,0 +1,1565 @@
+_LANG;English;Greek;Deutsch
+_LANG;English;Greek;Deutsch
+
+Monday;Monday;Δευτέρα;Montag
+
+Tuesday;Tuesday;Τρίτη;Dienstag
+
+Wednesday;Wednesday;Τετάρτη;Mittwoch
+
+Thursday;Thursday;Πέμπτη;Donnerstag
+
+Friday;Friday;Παρασκευή;Freitag
+
+Saturday;Saturday;Σάββατο;Samstag
+
+Sunday;Sunday;Κυριακή;Sonntag
+
+January;January;Ιανουαρίου;Januar
+
+February;February;Φεβρουαρίου;Februar
+
+March;March;Μαρτίου;Maerz
+
+April;April;Απριλίου;April
+
+May;May;Μαίου;Mai
+
+June;June;Ιουνίου;Juni
+
+July;July;Ιουλίου;Juli
+
+August;August;Αυγούστου;August
+
+September;September;Σεπτεμβρίου;September
+
+October;October;Οκτωβρίου;Oktober
+
+November;November;Νοεμβρίου;November
+
+December;December;Δεκεμβρίου;Dezember
+
+_LOCAL;Language;Γλώσσα;Sprache
+
+_HOME;Home;Αρχική;Startseite
+
+_ADMIN;Admin;Διαχείρηση;Admin
+
+_COMMANDS;Commands;Εντολές;Befehle
+
+_THEME;Theme;Θέμα;Thema;
+
+_MORE;More;Περισσότερα;Mehr;
+
+_CODE;Code;Κωδικός;Passwort;
+
+_ADVANCE;Advance;Για προχωρημένους;Fuer Fortgeschrittene; 
+
+_CPANEL;Control;Διαχείρηση;Steuerung;
+
+_COMLINE;Command;Εντολή;Befehl;
+
+_DATE;Date;Ημερ/νία;Datum;
+
+_TIME;Time;Ωρα;Zeit;
+
+_BUY;Buy;Αγορά;Kauf
+
+_ADD;Add;Προσθήκη;Hinzufuegen
+
+_REM;Remove;Αφαίρεση;Ausschneiden
+
+_ITEM;Item;Είδος;Produkt
+
+_NOACCESS;No Access;Μη Προσβάσιμο;Kein Zugang
+
+_IMAGE;Picture;Εικόνα;Abbildung
+
+_WEEKOFFERS;Offers of the week;Προσφορες εβδομάδος;Angebote der Woche
+
+_MONTHOFFERS;Offers of the month;Προσφορες μηνός;Angebote des Monats
+
+_REGISTER;Register now...;Καταχωρηθειτε τωρα...;Jezt anmelden (registrieren)....;
+
+_ASKFOR;Ask for...;Ζητήστε...;Um (etwas) bitten...; oder Bitten um.....
+
+_WND1;Mail;Ταχυδρόμηση;Email;
+
+_WND2;Print;Εκτύπωση;Drucken;
+
+_WND1;Mail;Ταχυδρόμηση;Email;
+
+_WND2;Print;Εκτύπωση;Drucken;
+
+_SHOW;Show;Εμφανιση;Erscheinen;
+
+_HIDE;Hide;Αποκρυψη;Verstecken;
+
+_VIEWSTYLES;View styles;Μορφή;Ansicht(en); 
+
+_SORT;Sort;Ταξ.;Art
+
+_PAGE;Page;Σελίδα;Seite
+
+_EMPTYDIR;Not availbale products;Κανένα διαθέσιμο προϊόν;Nicht verfuegbar
+
+_NEXT;Next;Επόμενο;Weiter
+
+_PREV;Prev;Προηγούμενο;Zurueck
+
+_BEGIN;Begin;Αρχή;Zum Anfang
+
+_END;End;Τέλος;Ende
+
+_ALLBROWSE;Show All;Προβολή Όλων;Alles anzeigen
+
+_SEARCH;Search;Αναζήτηση;Suche
+
+_SEARCH;Search;ΑναζήτησηSuche;
+
+_GETDATE;Select Date;Επιλογή ημ/νίας; Datum auswaehlen
+
+_APO;From:;Απο:;Von
+
+_EOS;To  :;Εως:;Bis:
+
+_OK;Ok;Ok;Ok
+
+_SUBMIT;Submit;Αποστολή;Senden
+
+_RESET;Reset;Καθαρισμός;Loeschen
+
+_HTMLAREA;HTML Editor;HTML Κειμενογράφος;HTML Editor;
+
+_GETDATE;Select Date;Επιλογή ημ/νίας; Datum auswaehlen;
+
+_APO;From:;Απο:;Von:
+
+_EOS;To  :;Εως:;Bis:
+
+_OK;Ok;Ok;Ok;
+
+VIEWLOG_DPC;Logs;Στατιστική; Statistik;
+
+VRML_DPC;Vrml;Vrml;Vrml;
+
+SCOL_DPC;Scol;Scol;Scol;
+
+_SCOL0;Photo;Φωτο; Photo;
+
+_SCOL1;Name;Όνομα;Name;
+
+_SCOL2;Avatar;Εικόνα; Bild;
+
+_SCOL3;Pager;Ειδοποιήση;Benachrichtigung;
+
+_SCOL4;WebCam;Κάμερα;WebCam; oder Digitalkamera oder Kamera
+
+_SCOL5;Ignore;Μάυρη Λιστα; Ignorieren;
+
+_SCOL6;Speak;Ομιλία; Sprechen;
+
+_SCOL7;Sound Dialog;Ηχητικός Διάλογος; Akustischer Dialog;
+
+_SCOL8;Sound ON;Ηχοσ ΝΑΙ; Ton an
+
+_SCOL9;Sound OFF;Ηχος ΟΧΙ; Ton aus
+
+_SETUP;Setup;Εγκατάσταση; Installation
+
+_WIDTH;Width;Μήκος; Breite
+
+_HEIGHT;Height;Πλάτος;Hoehe
+
+_cDEPTH;Color Depth;Βάθος Χρώματος.;Farbtiefe
+
+_pDEPTH;Pixel Depth;Βάθος Εικονοστοιχείου; (Pixel-)Aufl^sung
+
+_BROWSER;Browser;Πρόγραμμα οδήγησης; Browser
+
+_OS;Client Operating System;Λειτουργικό Συστημα Χρήστη; Benutzer Betriebssysstem
+
+_VOTE;Vote;Ψήφισε;Stimme
+
+_VRESLT;Vote Results;Αποτελέσματα; Abstimmungsergebnis
+
+_VMSG;Thank you. Your Vote is;Ευχαριστουμε για την συμμετοχή σας. Επιλέξατε;Danke. Sie haben folgende Stimme abgegeben
+
+_VOTETOTAL;Total Votes :;Συνολικοι Ψήφοι:;Gesamtstimmen:
+
+_QSTNR;Questionaire;Ερωτηματολόγιο;Frage
+
+_NEXT;Next;Επόμενο; Weiter
+
+_END;End;Τέλος;Ende
+
+_QSTNRCANCEL;Cancel;Ακυρο;Abbruch
+
+_BLN4;Close;Κλείσιμο;Beenden
+
+_BLN5;Minimize;Ελαχιστοποίηση;Minimieren
+
+_BLN6;Maximize;Μεγιστοποίηση;Maximieren
+
+_MODIFY;Modify;Επεξεργασία;Bearbeiten
+
+_UCONTENTS;Invisible Contents;Μη Αναγνώσιμα;Nicht sichtbarer Inhalt
+
+_VISIBLE;Visible;Ορατά;Sichtbar
+
+_THEMA;Thema;Θέμα;Thema
+
+_XWND1;Manage Desktop;Επιφάνεια εργασίας;Desktop
+
+XWINDOW_CNF;Manage Desktop;Επιφάνεια εργασίας;Desktop
+
+CMAIL_DPC;Support;Υποστήριξη;Support
+
+_SENDCMAIL;Submit;Αποστολή; Senden
+
+_CLRCMAIL;Clear;Καθαθαρισμός; Leeren
+
+_MLS2;Send mail successfully !;Επιτυχής αποστολή !;Email erfolgreich gesendet
+
+_MLS3;No authority !;Μη εγγεκριμένη ενέργεια;Keine Berechtigung
+
+_MLS4;Missing data !;Ελειπή δεδομένα !;Fehlende Daten;
+
+_MLS9;Error during mail operation. Please check your entries.;Προβλημα αποστολής. Παρακαλουμε ελεγξτε τα στοιχεία αποστολής.;Fehler waehrend Postoperation(Postbetriebes).Pruefen Sie Ihre Berechtigungen
+
+CMAILPLUS_DPC;Support;Υποστήριξη; Service
+
+_INCLSUBS;and Subscribers;σε συνδρομητές;Anbieter
+
+_ATTACHMENTS;Attachments;Συνημένα; Zusatz
+
+AMAIL_DPC;Contact Us;Επικοινωνία; Kontakt
+
+_OXI;No;Οχι;Nein
+
+_NAI;Yes;Ναι;Ja
+
+_TOWN;Town;Πόλη;Stadt
+
+_ZIP;Zip;Ταχ. Κωδικός; PLZ (Postleitzahl)
+
+_CNTR;Country;Χώρα;Land
+
+_COMP;Company Name;Εταιρία;Firma
+
+_CPER;Contact Person;Υπεύθυνος επικοινωνίας; Kontaktperson / Ansprechpartner
+
+_ACTV;Activities;Κύρια Δραστηριότητα; Bet^tigung
+
+_ADDR;Address;Διευθυνση;Adresse
+
+_WEB;Web;Ιστοσελίδα;Web Seite
+
+_MAIL;e-mail;Ηλεκτρονικό ταχυδρομείο;Email
+
+_SUBSE;Please send me mail informations about new products;Θέλω να λαμβάνω πληροφορίες για νέα προϊόντα μέσω ηλεκτρονικού ταχυδρομείου;Bitte senden Sie mir Informationen bez^glich der neuen Produkte per email zu.;
+
+_AMTRUE;Succsessfull transmition!;Επιτυχής επικοινωνία!;Erfolgreiche Uebertragung!;
+
+_AMFALSE;Unknown data!;Ακατάληλα δεδομένα!;Unbekannte Daten; 
+
+_FORMWARN;Fields with (*) required.;Τα πεδία με αστερίσκο (*) ειναι απαραίτητα.; Felder mit (*) erforderlich;;
+
+_WARNING;Warning;Προειδοποίηση;Warnung;
+
+MAILCRACKER_DPC;Inbox;Εισερχόμενα;Inbox;
+
+_NEWMAIL;New Mail;Νεο Μήνυμα;Neue Email;
+
+_INBOX;Inbox;Εισερχόμενα;Inbox;
+
+_OUTBOX;Outbox;Εξερχόμενα;Outbox;
+
+_SNTITEMS;Sent Items;Απεσταλμένα;Gesendete;
+
+_DELITEMS;Deleted Items;Διεγραμμένα;Geloeschte;
+
+_ADMMAIL;Mailbox Administration;Διαχείριση Ταχυδρομείου;Admin Email;
+
+_FROM;From;Απο;Von;
+
+_TO;To;Σε;An;
+
+_SUBJECT;Subject;Θέμα;Thema;
+
+_MESSAGE;Message;Κείμενο;Nachricht
+
+_DATETIME;Date/Time;Ημερ./Ωρα;Zeit/Datum
+
+_INCLSUBS;and Subscribers;σε συνδρομητές; Zu Abonnenten
+
+_ATTACHMENTS;Attachments;Συνημένα;Anlagen
+
+_DELETE;Delete;Διαγραφή;Loeschen
+
+_SEND;Send;Αποστολή;Senden
+
+_ADD2OUTBOX;Add to Outbox;Προσθήκη στα εξερχόμενα;Zu Outbox hinzufuegen
+
+_ATTACH;Attach;Προσθήκη;Einfuegen
+
+_MLS1;Unable to update mailbox !;Ανικανότητα ενημέρωσης;Keine Aktualisierung der Mailbox moeglich
+
+_MLS2;Send mail successfully !;Επιτυχής αποστολή !;Senden Erfolgreich
+
+_MLS3;No authority !;Μη εγγεκριμένη ενέργεια;Keine Berechtigung
+
+_MLS4;Missing data !;Ελειπή δεδομένα !;Fehlende Daten!
+
+_MLS5;"Mail added to Outbox successfully !""";Το μύνημα μετακινήθηκε στα Εξερχόμενα !;Email  erfolgreich zur Outbox hinzugefuegt !;
+
+_MLS6; mail(s) send successfully !; Μυνήματα στάλθηκαν επιτυχώς !;Nachricht wurde erfolgreich!
+
+_MLS7; mail(s) deleted successfully !; Μυνήματα διαγράφτηκαν επιτυχώς !; Nachricht erfolgreich geloescht!
+
+_MLS8; incoming mail(s) !; εισερχόμενα μυνήματα !;Eingehende Nachrichten
+
+_CLRMAIL;Clear;Καθαρισμός;Loeschen
+
+_MLS9;Error during mail operation. Please check your entries.;Προβλημα αποστολής. Παρακαλουμε ελεγξτε τα στοιχεία αποστολής.;Fehler waehrend Postoperation(Postbetriebes).Pruefen Sie Ihre Berechtigungen
+
+_MLS10;mail(s) send.;μηνύματα στάλθηκαν.;Emails gesendet
+
+MAILCRACKER_CNF;Manage Mailbox;Διαχ. ταχυδρομείου;Mailbox verwalten
+
+_RECEIVED;Received;Παραλαβή;Empfangen
+
+_MESSAGES;Message(s);Μυνήμα(τα);Nachrichten
+
+_NOMESSAGES;No message(s) found;Δεν βρέθηκαν μυνήμα(τα);Es wurden leider keine Nachrichten
+
+ADMIN_CNF;Content Managment;Διαχείρηση Περιεχομένου;Inhalt verwalten;
+
+_TRANS;Transform;Μετασχηματισμός;Umwandeln:
+
+_TRANOK;Transform;Μετασχηματισμός;Umwandeln;
+
+_TRANTLT;Title;Τίτλος;Titel
+
+_TRANCMD;Comments;Σχόλια;Bemerkung
+
+_TRANTO;To;Σέ;An
+
+_TRANFROM;From;Απο;Von
+
+_METACACHE;Metacache;Πρόχειρο;Vorl^ufig
+
+_RESET;Reset;Καθαρισμός;Loeschen
+
+_EMPTY;Empty;Αδειο; Leer
+
+METACACHE_DPC;List;Λίστα;Liste;
+
+_TRANS;Transform;Μετασχηματισμός;Umwandeln
+
+CART_DPC;My Cart;Καλάθι Αγορών;Mein Warenkorb
+
+_RESET;Reset;Καθαρισμός;leeren
+
+_EMPTY;Empty;Αδειο;leer 
+
+_BLN3;Clear Cart;Αδειασμα Καλαθιού;Warenkorb leeren
+
+_BLN2;Remove from Cart;Αφαίρεση απο το Καλάθι;wurde vom Warenkorb entfernt
+
+_BLN1;Add to Cart;Προσθήκη στο Καλάθι;Zum Warenkorb hinzufuegen
+
+_MSG16;Prices does not include taxes;Οι τιμές δεν συμπεριλαμβάνουν ΦΠΑ 18%;Die Preise enthalten keine MwSt (Mehrwertsteuer)
+
+_MSG15;Your cart is full ! ! !;Το καλάθι σας είναι γεμάτο ! ! !;Der Warenkorb ist voll!!
+
+_MSG14;Your order submited successfully! Thank you!;Η παραγγελία σας εκτελέστηκε επιτυχώς !;Ihr Auftrag wurde erfolgreich uebertragen.Danke!
+
+_QTY;Qty;Τεμ.;Menge;
+
+_PRICE;Price;Τιμή;Preis
+
+_DESCR;Description;Περιγραφή;Beschreibung
+
+_STOTAL;sTotal;Σύνολο;Gesamtmenge
+
+_TOTAL;Total;Σύνολο;Gesamtmenge
+
+_RECALC;Recalculate;Υπολογισμός;Nachrechnen
+
+_CHKOUT;Check Out;Ταμείο;Kasse
+
+_ORDER;Order;Επιβεβαίωση;Auftrag
+
+_CANCELORDER;Cancel;Ακύρωση;Abbruch
+
+_SUBMITORDER;Submit Order;Ολοκλήρωση Συναλλαγής;Auftrag Einreichen
+
+_PRINT;Print;Εκτύπωση;Ausdruck
+
+_CLOSE;Close;Κλείσιμο; Schliessen
+
+_ACCDENIED;Sorry you don't have the appropriate priviliges.;Δέν έχετε το απαραίτητο δικαίωμα.;"Entschuldigen Sie; Sie haben nicht die entsprechenden Berechtigungen"
+
+_CONTENTS;Contents;Περιεχόμενα;Inhalt
+
+_NOTAVAL;Not available;Μη διαθέσιμο;Nicht vorhanden
+
+_TAX;Tax;Φόρος; Steuer
+
+_SHIPCOST;Shipping Cost;Έξοδα αποστολής;Versandkosten
+
+_DISCOUNT;Discount;Εκπτωση;Nachlass
+
+_FCOST;Final cost;Πληρωτέο;Gesamtkosten
+
+_BOXTYPE;Box;Συσκ.;Verpackung.
+
+_CART;Shop Cart;Καλάθι Αγορών;Warenkorb;
+
+_RWAY;Shipping:;Τρόπος Αποστολής;Versandart;
+
+_RWAY1;By Car;Οδικώς;Fahrer;
+
+_RWAY2;Courier;Courier;Courier;
+
+_RWAY3;ELTA;ΕΛΤΑ;Post;
+
+_PWAY;Pay with:;Τρόπος Πληρωμής;Art der Zahlung;
+
+_PWAY1;Trust my account;Χρέωση του λογαριασμου μου;^^^^^^^^^^^^;
+
+_PWAY2;Cash on delivery;Αντικαταβολή; per Nachnahme; 
+
+_PWAY3;VISA;VISA;VISA;
+
+_ENDOK;Thank you! Your order submited successfully with Order No :;"Ευχαριστούμε ! Η παραγγελία σας εκτελέστηκε επιτυχώς με αριθμό Παραγγελίας ;Danke.Ihre Bestellung Beschtelung wurde erfolgreich gesendet; die Bestellnummer lautet:;
+
+_SXOLIA;Comments;Σχόλια;Bemerkung;
+
+_CARTERROR;Error during transaction;Λαθος εκτελεσης;Falsch Ausgefuehrt;
+
+_STOCKOUT; is out of stock!; δεν υπαρχει απόθεμα!;Ist nicht vorraetig;
+
+_INPUTERR;Invalid entry!;Λανθασμένη ποσότητα!;Unzulaessige Eintragung;
+
+SENCART_DPC;My Cart;Καλάθι Αγορών;Warenkorb;
+
+METABAR_DPC;METABAR order;METABAR order;METABAR order;
+
+_ADDTO;One Item added !;Το αντικείμενο εισάχθηκε !;Das Produkt wurde hinzugefuegt;
+
+_NOTFOUND;Item NOT Found;Το αντικείμενο δεν βρέθηκε !;Das Produkt wurde nicht gefunden;;
+
+_fp_dateup;Update;Ενημέρωση Περιεχομένου;Aktualisierung;
+
+_CANCEL;Cancel;Ακυρο;Abbrechen;
+
+NEWSLETTER_DPC;Newsletter;Newsletter;Newsletter;
+
+_UONLINE;Online Users;Online Χρήστες;Online Benutzer; 
+
+_TRANSEND;Procceded;Εκτελεσμένη;Verfahren/Verlauf;
+
+_TRANSCANC;Canceled;Ακυρη;Ungueltig;
+
+_TRANSPROC;In Procces;Εκκρεμής;In Bearbeitung;
+
+_TRANSTAT;Status;Κατάσταση;Status;
+
+_TRANSNUM;Order No;Αριθμός Παραγγελίας;Bestellnummer;
+
+_TRANSDATA;Transaction data;Στοιχεία συναλλαγής;Transaktionsdaten;
+
+_TRANSINFO;All data are important for a successfull transaction ! !;Όλα τα στοιχεία πρέπει να είναι σωστά συμπληρωμένα ! !;Alle Angaben sind fuer eine erfolgreiche sichere Transaktion wichtig !!;
+
+_TRANSPRINT;Print Transaction;Εκτύπωση Συναλλαγής;Transaktion - Drucken;
+
+_TRANSERROR;Transaction not successfull. Please try later or inform us at ;Η συναλλαγή δεν εκτελέστηκε. Παρακαλώ δοκιμάστε αργότερα ή ενημερώστε μας στο;Transaktion konnte nicht abgeschlossen werden. Bitte versuchen Sie es spaeter nocheinmal oder informieren Sie uns unter;
+
+_TRANSOK;Thank you! Your order submited successfully with Order No :;Ευχαριστούμε ! Η παραγγελία σας εκτελέστηκε επιτυχώς με αριθμό Παραγγελίας :;"Danke.Ihre Bestellung wurde erfolgreich gesendet; die Bestellnummer lautet:;
+
+_TRANSEARCH;Search Transaction;Αναζήτηση Συναλλαγής;Transaktion suchen
+
+_TRANSLIST;Transaction List;Λίστα Συναλλαγών;Transaktions - Liste
+
+_TRANSACTION;Transaction;Κίνηση;Transaktion
+
+TRANSACTIONS_CNF;Transaction List;Λίστα Συναλλαγών; Transaktions - Liste
+
+_TRANSMERR;Not submited;Μη απεσταλμενη; Nicht gesendet 
+
+_TRANSDELL;Deleted;Διεγραμμενη;Loeschen
+
+_TRANSEMPTY;No Transaction;Δεν υπάρχουν κινήσεις;Keine Transaktion Nicht Uebermittelt
+
+SENTRANSACTIONS_CNF;Transaction List;Λίστα Συναλλαγών;Transaktions Verhandlungs - Liste
+
+SENPTREE_DPC;Directory;Κατάλογος;Katalog
+
+_DIR;Directory;Κατάλογος;Katalog
+
+SENHL_DPC;Offers;Προσφορές;Angebote
+
+_PRODOFFER;Offers for;Προσφορές για;Angebote fuer
+
+SENPNEW_DPC;New Products;Νέα Προιόντα;Neue Artikel
+
+_USERNAME;Username;Χρήστης;Benutzer
+
+_PASSWORD;Password;Κωδικός;Password
+
+_MSG9;The following fields are optional.;Τα παρακάτω πεδία εξυπηρετούν στατιστικούς λόγους και δεν είναι απαραίτητα.;Die folgenden Felder Fleder sind optional
+
+_MSG10;Successfull registration!;Επιτυχής καταχώρηση!;Erfolgreiche Registrierung;
+
+_MSG11;is required;είναι απαραίτητο;ist erforderlich;;
+
+_MSG12;The value in field;Η τιμή στο πεδίο;den Dem Wert im Feld eingeben;;
+
+_MSG13;No valid Password !;Ο κωδικός δεν συμφωνεί με την επιβεβαιωσή του;Password ist ungueltig!;;
+
+_MSG17;Invalid data. Your username used by someone else!;Μη αποδεκτά δεδομένα. Το όνομα χρήστη είναι δεσμευμένο;"Fehlermeldung;der von Ihnen genannte Benutzername wird bereits genutzt";Unzulaessige Daten.Ihr Username wird bereits benutzt!; 
+
+_MSG18;Invalid update or the data has no diference!;Μη αποδεκτά δεδομένα ή μη διαφορά νέων δεδομένων;Unzulaessige Aktualisierung oder die Daten haben keinen Unterschied!;;
+
+_MSG19;Can't delete this record!;Αδύνατη η διαγραφή;Kann nicht geloescht werden;;
+
+_FNAME;Title;Επωνυμια;Nachname;;
+
+_LNAME;Job title;Επαγγελμα;Beruf;;
+
+_VPASS;Verify Password;Επιβεβαίωση Κωδικού;Password wiederholen;;
+
+_EMAIL;e-mail;Ηλ. Ταχυδρομείο;Email;;
+
+_COUNTRY;Country;Χώρα;Land;;
+
+_LANGUAGE;Language;Γλώσσα;Sprache;;
+
+_AGE;Age;Ηλικία;Alter;;
+
+_GENDER;Gender;Φύλλο;Geschlecht;;
+
+_SEARCHUSR;Search User;Αναζήτηση Χρήστη;Benutzer Suche;;
+
+_SIGNUP;SignUp;Εγγραφή;Einloggen
+
+_UPDATE;Update;Αλλαγή;Aktualisieren
+
+_DELETE;Delete;Διαγραφή;Loeschen
+
+_USERS;Users;Χρήστες;Benutzer
+
+_FORMWARN;Fields with (*) required.;Τα πεδία με αστερίσκο (*) ειναι απαραίτητα.Felder mit(*)erfordelich oder sind Pflichtfelder;
+
+_PDATA;Personal Data;Προσωπικά Στοιχεία;Persoenliche Angaben
+
+SENUSERS_CNF;Manage my Account;Διαχείρηση Λογαριασμού;Meine Angaben verwalten
+
+_NOPRIV;Denied! No privileges.;Αρνηση! Δεν έχετε δικαίωμα.; Keine Berechtigung
+
+_MSG20;Can't procced your request please try later!;"Λαθος καταχώρησης. Παρακαλουμε δοκιμάστε αργότερα.;Die Afrage konte nicht bearbeitet werden;bitte versuchen Sie es spaeter nocheinmal!";
+
+_MSG21;Password and verify password doesn't match!;Η επιβαιβαιωση κωδικου δεν συμφωνει με τον κωδικο σας.;Passwordeingabe stimmt mit Ihrem Password nicht ueberein. Bitte versuchen Sie es spaeter nocheinmal!
+
+_UNMSG;Username will be send to you at the end of this proccess!;Το ονομα χρήστη θα σας αποσταλει μετα το τελος της διαδικασίας!;Username wird Ihnen am Ende des Vorgangs forgangs per email zugesendet!
+
+_SENLOGIN;Login;Εισαγωγή;Einloggen
+
+_SENLOGOUT;Logout;Αποσύνδεση;Abmelden
+
+SENLOGIN_CNF;Logout;Αποσύνδεση;Abmelden
+
+SENREMLOGIN_CNF;Logout;Αποσύνδεση;Abmelden
+
+SENREMLOGIN_UNK;Login;Εισαγωγή;Einloggen
+
+_PASSWORD;Password;Κωδικός;Password
+
+_WELLCOME;Wellcome;Καλωσήρθες;Herzlich Wilkommen
+
+_SEEYOU;See you next time;Τα λέμε; Bis bald
+
+_MSG1;Incorect user or password!;Λάθος όνομα χρήστη ή κωδικού!;Falscher Benutzername/Password!!
+
+_VERPASS;Verify password;Επαληθευση κωδικου;Password wiederholen
+
+_PASSREMINDER;Please change your password!;Παρακαλω αλλαξτε τον κωδικό σας!;Bitte aendern Sie Ihr Password
+
+_VERPASSUCCESS;Password changed!;Επιτυχης αλλαγη κωδικου;Password wurde erfolgreich  geaendert
+
+_HERE;here;εδώ;Hier
+
+_IFORGET;If you dont remember your password click ;Αν δεν θυμαστε τον κωδικο σας πατηστε;Haben Sie Ihr ich Password vergessen^^
+
+_PRESSHERE;Click here;Πατήστε εδώ;Druecken Sie Hier
+
+_TITLE;Title;Επωνυμία;Nachname
+
+_AFM;VAT No;Α.Φ.Μ.;Steuernummer
+
+_JOBTITLE;Job Title;Επαγγελμα;Beruf
+
+_ADDR1;Address 1;Διεύθυνση Λογιστηρίου;Adresse 1;
+
+_POBOX1;Post code 1;Τ.Κ. Λογιστηρίου;PLZ 1
+
+_ADDR2;Address 2;Διεύθυνση Παράδοσης;Adresse 2
+
+_POBOX2;Post code 2;Τ.Κ. Παράδοσης;PLZ 2
+
+_TEL;Voice;Αριθμός Τηλεφώνου;Tel
+
+_FAX;Fax;Αριθμός Τηλεομοιότυπου;Fax
+
+_SIGNUP;SignUp;Εγγραφή;Einschreiben
+
+_UPDATE;Update;Ανημέρωση; Aktualisierung
+
+_DELETE;Delete;Διαγραφή;Loeschen
+
+_MSG10;Successfull registration!;Επιτυχής καταχώρηση!;Erfolgreiche Registrierung;
+
+_MSG11;is required;είναι απαραίτητο; ist erforderlich 
+
+_MSG12;The value in field;Η τιμή στο πεδίο; Betrag eingeben
+
+_ACCDENIED;Access denied;Απαγορυμένη πρόσβαση; Zugang nicht gestattet
+
+_EFORIA;Account Department;ΔΟΥ; Buchhaltung
+
+_SEARCHCUST;Searchin;Ευρεση;Suche
+
+_SEARCHRES;Results;Αποτελέσματα Αναζήτησης;Suchergebnisse
+
+_CUSTLIST;Customers;Πελάτες;Kunden
+
+_SUBSCR;Subscribe;Εισαγωγή; Abonnent
+
+_USUBSCR;Unsubscribe;Εξαγωγή; abschreiben
+
+_SUBSLIST;Subscribers List;Λίστα Συνδρομών;RGBs
+
+_MSG2;Enter your e-mail:;Εισάγετε το e-mail σας;Email bitte hier eingeben;
+
+_MSG4;Advance subscription;Περισσότερα;Anmerkungen
+
+_MSG5;Invalid e-mail;Ακυρο e-mail;Keine gueltige email!!
+
+_MSG6;Subscription successfully !;Επιτυχής εισαγωγή !;Sie sind erfolgreich eingeloggt
+
+_MSG7;Subscription is active !;Είστε ήδη καταχωρημένος;Sie sind bereits registriert!!
+
+_MSG8;Unsubscription successfully !;Επιτυχής εξαγωγή !;Sie sind erfolgreich Ausgeloggt;
+
+_ERROR;Error !;Λάθος !;Fehler!
+
+_SUBSCRTEXT;Please send me mail informations about new products;Θέλω να λαμβάνω πληροφορίες για νέα προϊόντα μέσω ηλεκτρονικού ταχυδρομείου;Please send me mail informations about new products;
+
+_SUBSCRWARN;Please check below to subscribe;Ενεργοποίηση συνδρομής;Please check below to subscribe;
+
+_DERROR;Database Error;Δεν είναι δυνατή η εργασία αυτή τη στιγμή; προσπαθήστε αργότερα;Database Error;
+
+_SUBID;A/A;A/A;A/A
+
+_SUBMAIL;Mail Address;Ταχυδρομείο;Email
+
+_SUBDATE;Subscription date;Ημερ. Εισαγωγής;Mitglied Seit
+
+SENSUBSCRIBE_CNF;Subscribers List;Λίστα Συνδρομών; Abonnentenliste
+
+_SUBSMAILSUBJECT;Your subscription at www.panikidis.gr;Επιβεβαιωση εγγραφης στη λιστα ενημερωσης του www.panikidis.gr;Confirm subscription;
+
+_USUBMAILSUBJECT;Your unsubscription at www.panikidis.gr;Επιβεβαιωση διαγραφης απο τη συνδρομη στο www.panikidis.gr;Confirm unsubscription;
+
+_SUBMAILCLICK;Please click here.;Παρακαλω πατηστε εδω.;Bitte klicken Sie hier;
+
+_SUBMAILMSG;A mail message has send to you. Please verify using the link inside the mail message;Ενα μηνυμα ηλεκτρονικου ταχυδρομείου εχει σταλθεί στην διευθυνση σας. Παρακαλουμε επιβεβαιωστε την ενεργεια μεσω του συνδεσμου που σας σταλθηκε.;Sie haben eine Email erhalten. Bitte ^berpr^fen Sie dies anhand des beigef^gten Links;
+
+_CLICKHERE; click here.; πατηστε εδω.; hier klicken
+
+_SUBREMOVE;You choose to remove your self. Please type your email and click Unsubscribe.;Επιλεξατε να εξαιρεθειτε απο την λίστα διανομης. Παρακαλουμε εισαγετε το email σας και πατηστε εξαγωγή.;Sie haben ausgew^hlt sich selbst zu l^schen. Bitte geben Sie Ihre Email ein und klicken Sie auf L^schen.;
+
+NEWORDER_DPC;New order;Νέα παραγγελία; Neue Bestellung
+
+_ADDTO;One Item added !;Το αντικείμενο εισάχθηκε !; Artikel hinzugefuegt;
+
+_NOTFOUND;Item NOT Found;Το αντικείμενο δεν βρέθηκε !; Artikel nicht gefunden;
+
+_ORD2;Remove from order;Αφαίρεση απο την παραγγελία; Von der Bestellung nehmen
+
+_ORD1;Add to order;Προσθήκη στη παραγγελία; Zusatz zur Bestellung
+
+_CANCELORD;Cancel order;Ακυρωση Παραγγελίας; Bestellung loeschen
+
+_BACKORD;Back;Επιστροφή; Zur^ck
+
+_PROCEEDORD;Proceed order;Εκτέλεση παραγγελίας; Bestellung weitergeben
+
+_RESETORD;Clear order;Καθαρισμός παραγγελίας; Bestellung rausnehmen
+
+_OKORDER;Submit Order;Επικύρωση παραγγελίας; Bestellung aufgeben
+
+_SUCCESSORDER;Successfull Order;Επιτυχής εκτέλεση παραγγελίας; Bestellung erfolgreich durchgefuehrt
+
+_FAILORDER;ERROR during saving process!!!;ΛΑΘΟΣ κατα την καταχώρηση; Fehler w^hren des Speichervorgangs
+
+EXEORDER_DPC;Execute order;Διεκπεραιωση παραγγελιών; Bestellung durchf^hren
+
+_ADDTO;One Item added !;Το αντικείμενο εισάχθηκε !;Artikel hinzugefuegt;
+
+_NOTFOUND;Item NOT Found;Το αντικείμενο δεν βρέθηκε !; Artikel nicht gefunden
+
+_NEXTORDER;Next Order;Επόμενη Παραγγελία; N^chste Bestellung
+
+_ERRORORDER;Error during transaction;Πρόβλημα κατα την διεκπεραίωση; Fehler w^hrend der Transaktion
+
+_BACKORDER;Back Order;Back Order; R^ckbuchung
+
+_CCLORDER;Cancel;Ακύρωση; Loeschen
+
+SEARCH_DPC;Search;Αναζήτηση; Suche
+
+_MSG3;Advance Search;Σύνθετη Αναζήτηση; Bevorzugte Suche
+
+_ASPHRASE;As a Phrase;Ως Φράση; Als Satz
+
+_ANYTERMS;Any Terms;Κάποιο απο αυτά; Manche Bedingungen
+
+_ALLTERMS;All Terms;Όλα; Alle Bedingungen
+
+_SEARCHTYPE;Type;Τύπος; Typ/Art
+
+_CSENSE;Case Sensitive;Κεφαλαία/Μικρά; Gro^-/Kleinbuchstaben
+
+_TTIME;Total time;Συνολικός Χρόνος; Gesamtzeit
+
+_SEARCHR;Search Results;Αποτελέσματα Αναζήτησης; Suchergebnisse
+
+_SEARCH;Search;Αναζήτηση; Suche
+
+_ALL;All;Σε Όλα; Alles
+
+FSYSTEM_DPC;FSYSTEM;FSYSTEM;FSYSTEM
+
+ADMINFS_DPC;Admin fs;Admin fs;Admin fs
+
+_News;News;Νέα; Neuigkeiten
+
+_Company;Company;Εταιρία; Firma
+
+_Help;Help;Βοήθεια; Hilfe
+
+_Terms;Terms;Οροι Χρήσης; Bedingungen
+
+_GROUPOF;Group;Ομαδα;Group
+
+NEWSRV_DPC;News;Νεα;Hilfe
+
+ACQUARELLΑ;ACQUARELLΑ;ACQUARELLΑ;ACQUARELLΑ
+
+ADAGIO;ADAGIO;ADAGIO;ADAGIO
+
+AGIPA;AGIPA;AGIPA;AGIPA
+
+ALJET;ALJET;ALJET;ALJET
+
+APLI;APLI;APLI;APLI
+
+ARIZONA;ARIZONA;ARIZONA;ARIZONA
+
+ASCOM;ASCOM;ASCOM;ASCOM
+
+ATTALUS;ATTALUS;ATTALUS;ATTALUS
+
+AVERY;AVERY;AVERY;AVERY
+
+BANNER;BANNER;BANNER;BANNER
+
+BINDERMAX;BINDERMAX;BINDERMAX;BINDERMAX
+
+BRISTOL;BRISTOL;BRISTOL;BRISTOL
+
+BROTHER;BROTHER;BROTHER;BROTHER
+
+CANON;CANON;CANON;CANON
+
+CANSON;CANSON;CANSON;CANSON
+
+CANVAS-CLOTH;CANVAS-CLOTH;CANVAS-CLOTH;CANVAS-CLOTH
+
+CAPA CASE;CAPA CASE;CAPA CASE;CAPA CASE
+
+CASIO;CASIO;CASIO;CASIO
+
+CD-CDR-CDRW-DVD;CD-CDR-CDRW-DVD;CD-CDR-CDRW-DVD;CD-CDR-CDRW-DVD
+
+CDs;CDs;CDs;CDs
+
+CHANNEL BINDING;CHANNEL BINDING;CHANNEL BINDING;CHANNEL BINDING
+
+CITIZEN;CITIZEN;CITIZEN;CITIZEN
+
+CLIPS;CLIPS;CLIPS;CLIPS
+
+COATED;COATED;COATED;COATED
+
+COATED PAPER;COATED PAPER;COATED PAPER;COATED PAPER
+
+COLOR COPY;COLOR COPY;COLOR COPY;COLOR COPY
+
+COMPUTER LOGIC;COMPUTER LOGIC;COMPUTER LOGIC;COMPUTER LOGIC
+
+COMPUTERS;COMPUTERS;COMPUTERS;COMPUTERS
+
+COPY LUX;COPY LUX;COPY LUX;COPY LUX
+
+CREATION;CREATION;CREATION;CREATION
+
+CYBER;CYBER;CYBER;CYBER
+
+DATA SWITCH;DATA SWITCH;DATA SWITCH;DATA SWITCH
+
+DELTA;DELTA;DELTA;DELTA
+
+DESK INK;DESK INK;DESK INK;DESK INK
+
+DEVELOP;DEVELOP;DEVELOP;DEVELOP
+
+DEVELOPER;DEVELOPER;DEVELOPER;DEVELOPER
+
+D-MOLD;D-MOLD;D-MOLD;D-MOLD
+
+DONAU;DONAU;DONAU;DONAU
+
+DORGRAPHICS;DORGRAPHICS;DORGRAPHICS;DORGRAPHICS
+
+DOT MATRIX;DOT MATRIX;DOT MATRIX;DOT MATRIX
+
+DVDs;DVDs;DVDs;DVDs
+
+EASTEC;EASTEC;EASTEC;EASTEC
+
+ELECTROGRAPH;ELECTROGRAPH;ELECTROGRAPH;ELECTROGRAPH
+
+ENCAD;ENCAD;ENCAD;ENCAD
+
+EPSON;EPSON;EPSON;EPSON
+
+ESSELTE;ESSELTE;ESSELTE;ESSELTE
+
+EXTRA;EXTRA;EXTRA;EXTRA
+
+FAX;FAX;FAX;FAX
+
+FAX-MODEM-ISDN;FAX-MODEM-ISDN;FAX-MODEM-ISDN;FAX-MODEM-ISDN
+
+FELLOWES;FELLOWES;FELLOWES;FELLOWES
+
+FELLOWS;FELLOWS;FELLOWS;FELLOWS
+
+FELLOWS;FELLOWS;FELLOWS;FELLOWS
+
+FILM BACKLIT/PRINT;FILM BACKLIT/PRINT;FILM BACKLIT/PRINT;FILM BACKLIT/PRINT
+
+FLAT COVER;FLAT COVER;FLAT COVER;FLAT COVER
+
+FLYING COLOR;FLYING COLOR;FLYING COLOR;FLYING COLOR
+
+FLYING COLOURS;FLYING COLOURS;FLYING COLOURS;FLYING COLOURS
+
+FOLEX;FOLEX;FOLEX;FOLEX
+
+FOREVERTHERMAL;FOREVERTHERMAL;FOREVERTHERMAL;FOREVERTHERMAL
+
+FORMTEK;FORMTEK;FORMTEK;FORMTEK
+
+FUJITSU;FUJITSU;FUJITSU;FUJITSU
+
+GLOSSY;GLOSSY;GLOSSY;GLOSSY
+
+GMP;GMP;GMP;GMP
+
+GREENBINDER;GREENBINDER;GREENBINDER;GREENBINDER
+
+HARDWARE;HARDWARE;HARDWARE;HARDWARE
+
+HITCOVER CHEMISE;HITCOVER CHEMISE;HITCOVER CHEMISE;HITCOVER CHEMISE
+
+HP;HP;HP;HP
+
+INAPA;INAPA;INAPA;INAPA
+
+INKJET;INKJET;INKJET;INKJET
+
+INKJET COPY LASER;INKJET COPY LASER;INKJET COPY LASER;INKJET COPY LASER
+
+INKTEC;INKTEC;INKTEC;INKTEC
+
+JAC;JAC;JAC;JAC
+
+KAPA;KAPA;KAPA;KAPA
+
+KONICA;KONICA;KONICA;KONICA
+
+LAMIREL;LAMIREL;LAMIREL;LAMIREL
+
+LANIER;LANIER;LANIER;LANIER
+
+LASER;LASER;LASER;LASER
+
+LASER COPY;LASER COPY;LASER COPY;LASER COPY
+
+LEITZ;LEITZ;LEITZ;LEITZ
+
+LEITZ ΨΥΧΡΗΣ ΠΛΑΣΤ/ΣΗΣ;LEITZ COLD LAMINATION;LEITZ ΨΥΧΡΗΣ ΠΛΑΣΤ/ΣΗΣ;LEITZ COLD LAMINATION
+
+LEXMARK;LEXMARK;LEXMARK;LEXMARK
+
+LOST-FOUND;LOST-FOUND;LOST-FOUND;LOST-FOUND
+
+MAESTRO;MAESTRO;MAESTRO;MAESTRO
+
+MEGASTAR;MEGASTAR;MEGASTAR;MEGASTAR
+
+MESSERLI;MESSERLI;MESSERLI;MESSERLI
+
+MESSERLI THERMAL CL;MESSERLI THERMAL CL;MESSERLI THERMAL CL;MESSERLI THERMAL CL
+
+MINI DISK;MINI DISK;MINI DISK;MINI DISK
+
+MINOLTA;MINOLTA;MINOLTA;MINOLTA
+
+MITA;MITA;MITA;MITA
+
+MMORE;MMORE;MMORE;MMORE
+
+MOUSE;MOUSE;MOUSE;MOUSE
+
+MOUSE-ΠΛΗΚΤΡΟΛΟΓΙΑ;MOUSE-KEYBOARD;MOUSE-ΠΛΗΚΤΡΟΛΟΓΙΑ;MOUSE-TASTATUR
+
+MOUSE PAD;MOUSE PAD;MOUSE PAD;MOUSE PAD
+
+MP3 PLAYER;MP3 PLAYER;MP3 PLAYER;MP3 PLAYER
+
+MPA;MPA;MPA;MPA
+
+MULTI (STORA);MULTI (STORA);MULTI (STORA);MULTI (STORA)
+
+MULTIJET;MULTIJET;MULTIJET;MULTIJET
+
+MUTOH;MUTOH;MUTOH;MUTOH
+
+NASHUA;NASHUA;NASHUA;NASHUA
+
+NOREX;NOREX;NOREX;NOREX
+
+O.P.P.;O.P.P.;O.P.P.;O.P.P.
+
+OFFSET;OFFSET;OFFSET;OFFSET
+
+OKI;OKI;OKI;OKI
+
+OLIVETTI;OLIVETTI;OLIVETTI;OLIVETTI
+
+ONE WAY VISION;ONE WAY VISION;ONE WAY VISION;ONE WAY VISION
+
+ORGANIZER;ORGANIZER;ORGANIZER;ORGANIZER
+
+ORIGINAL;ORIGINAL;ORIGINAL;ORIGINAL
+
+P.V.C.;P.V.C.;P.V.C.;P.V.C.
+
+PANASONIC;PANASONIC;PANASONIC;PANASONIC
+
+PANCOPY;PANCOPY;PANCOPY;PANCOPY
+
+PANCOPYLUX;PANCOPYLUX;PANCOPYLUX;PANCOPYLUX
+
+PANTECH;PANTECH;PANTECH;PANTECH
+
+PANTECH SPECIAL;PANTECH SPECIAL;PANTECH SPECIAL;PANTECH SPECIAL
+
+PHILIPS;PHILIPS;PHILIPS;PHILIPS
+
+PHOTOBASE GLOSS;PHOTOBASE GLOSS;PHOTOBASE GLOSS;PHOTOBASE GLOSS
+
+PHOTOPAPER;PHOTOPAPER;PHOTOPAPER;PHOTOPAPER
+
+PLAIN PAPER;PLAIN PAPER;PLAIN PAPER;PLAIN PAPER
+
+PLEXI GLASS;PLEXI GLASS;PLEXI GLASS;PLEXI GLASS
+
+PRESENTATION;PRESENTATION;PRESENTATION;PRESENTATION
+
+PRESENTATION PLOTER;PRESENTATION PLOTER;PRESENTATION PLOTER;PRESENTATION PLOTER
+
+PRESENTATION PLOTTER;PRESENTATION PLOTTER;PRESENTATION PLOTTER;PRESENTATION PLOTTER
+
+PRINCO;PRINCO;PRINCO;PRINCO
+
+PRINT STAR;PRINT STAR;PRINT STAR;PRINT STAR
+
+PROJECTOR;PROJECTOR;PROJECTOR;PROJECTOR
+
+PUNCHCOVER;PUNCHCOVER;PUNCHCOVER;PUNCHCOVER
+
+PVC;PVC;PVC;PVC
+
+RACKS-PATCH PANELS;RACKS-PATCH PANELS;RACKS-PATCH PANELS;RACKS-PATCH PANELS
+
+RELIDO;RELIDO;RELIDO;RELIDO
+
+RENZ;RENZ;RENZ;RENZ
+
+REXAM;REXAM;REXAM;REXAM
+
+REY;REY;REY;REY
+
+REY COLOR;REY COLOR;REY COLOR;REY COLOR
+
+REYJET;REYJET;REYJET;REYJET
+
+RICOH;RICOH;RICOH;RICOH
+
+ROLAND;ROLAND;ROLAND;ROLAND
+
+ROUTERS;ROUTERS;ROUTERS;ROUTERS
+
+ROYAL;ROYAL;ROYAL;ROYAL
+
+SAMSUNG;SAMSUNG;SAMSUNG;SAMSUNG
+
+SANEM;SANEM;SANEM;SANEM
+
+SCANNERS;SCANNERS;SCANNERS;SCANNERS
+
+SCOELLER;SCOELLER;SCOELLER;SCOELLER
+
+SCSI;SCSI;SCSI;SCSI
+
+SCSI CONTOLLERS;SCSI CONTOLLERS;SCSI CONTOLLERS;SCSI CONTOLLERS
+
+SHARP;SHARP;SHARP;SHARP
+
+SHIL;SHIL;SHIL;SHIL
+
+SINAR;SINAR;SINAR;SINAR
+
+SINAR COPY;SINAR COPY;SINAR COPY;SINAR COPY
+
+SINGULAR;SINGULAR;SINGULAR;SINGULAR
+
+SMART BUY;SMART BUY;SMART BUY;SMART BUY
+
+SMEAD;SMEAD;SMEAD;SMEAD
+
+SOFT COLOR;SOFT COLOR;SOFT COLOR;SOFT COLOR
+
+SOFTWARE;SOFTWARE;SOFTWARE;SOFTWARE
+
+SONY;SONY;SONY;SONY
+
+SPECIAL PAPER;SPECIAL PAPER;SPECIAL PAPER;SPECIAL PAPER
+
+SPECIAL PAPERS;SPECIAL PAPERS;SPECIAL PAPERS;SPECIAL PAPERS
+
+STAND- ΔΕΙΓΜΑΤΑ;STAND-SAMPLES;STAND- ΔΕΙΓΜΑΤΑ;STAND-SAMPLES
+
+STAND-ΑΝΑΛΟΓΙΑ;STAND-PROPORTION;STAND-ΑΝΑΛΟΓΙΑ;STAND-PROMOTION
+
+STAR;STAR;STAR;STAR
+
+STAR COATED;STAR COATED;STAR COATED;STAR COATED
+
+STAR COATED PHOTO;STAR COATED PHOTO;STAR COATED PHOTO;STAR COATED PHOTO
+
+STAR COATING;STAR COATING;STAR COATING;STAR COATING
+
+STARCOATED THERMAL;STARCOATED THERMAL;STARCOATED THERMAL;STARCOATED THERMAL
+
+STARTER KIT;STARTER KIT;STARTER KIT;STARTER KIT
+
+STEELBACK;STEELBACK;STEELBACK;STEELBACK
+
+STEELCOVER;STEELCOVER;STEELCOVER;STEELCOVER
+
+TALLY;TALLY;TALLY;TALLY
+
+TDK;TDK;TDK;TDK
+
+TEC;TEC;TEC;TEC
+
+TELEX;TELEX;TELEX;TELEX
+
+TEPEDE;TEPEDE;TEPEDE;TEPEDE
+
+TESPA;TESPA;TESPA;TESPA
+
+TONER ΓΙΑ LASER;LASER TONER;TONER ΓΙΑ LASER;LASER TONER
+
+TONER ΦΩΤΟΑΝΤΙΓΡΑΦΙΚΩΝ;PHOTOCOPY TONER;TONER ΦΩΤΟΑΝΤΙΓΡΑΦΙΚΩΝ;PHOTOCOPY TONER
+
+TOSHIBA;TOSHIBA;TOSHIBA;TOSHIBA
+
+TRAXDATA;TRAXDATA;TRAXDATA;TRAXDATA
+
+TRIMMER;TRIMMER;TRIMMER;TRIMMER
+
+TYVEK;TYVEK;TYVEK;TYVEK
+
+UNI;UNI;UNI;UNI
+UNISOFT;UNISOFT;UNISOFT;UNISOFT
+VELOPLUS;VELOPLUS;VELOPLUS;VELOPLUS
+VERBATIM;VERBATIM;VERBATIM;VERBATIM
+VIDEO;VIDEO;VIDEO;VIDEO
+VINYL;VINYL;VINYL;VINYL
+VIPCOVER;VIPCOVER;VIPCOVER;VIPCOVER
+WEB CAMERAS;WEB CAMERAS;WEB CAMERAS;WEB CAMERAS
+XEROX;XEROX;XEROX;XEROX
+YIDU;YIDU;YIDU;YIDU
+ZAPAN;ZAPAN;ZAPAN;ZAPAN
+ZIP;ZIP;ZIP;ZIP
+ΑΔΙΑΣΤΑΛΤΟ CAD/CAM;STRECHLESS CAD/CAM;ΑΔΙΑΣΤΑΛΤΟ CAD/CAM;STRETCHLESS CAD/CAM
+ΑΔΙΑΣΤΑΛΤΟ ΣΧΕΔΙΟΥ;MECHANICAL DRAWING STRECHLESS;ΑΔΙΑΣΤΑΛΤΟ ΣΧΕΔΙΟΥ;STRETCHLESS DESIGN
+ΑΘΛΗΤΙΚΑ ΕΙΔΗ;ATHLETIC TYPES;ΑΘΛΗΤΙΚΑ ΕΙΔΗ;SPORTATIKEL
+ΑΚΟΥΣΤΙΚΑ-HEADSET;HEADSET;ΑΚΟΥΣΤΙΚΑ-HEADSET;KOPFHOERER
+ΑΝΑΛΩΣΙΜΑ ΑΜΜΩΝΙΑΣ;AMMONIAC ACCESSORIES;ΑΝΑΛΩΣΙΜΑ ΑΜΜΩΝΙΑΣ;AMMONIAKALISCHES ACCESOIRE
+
+ΑΝΑΛΩΣΙΜΑ ΓΡΑΦΙΚΗΣ ΥΛΗΣ;CONSUMABLE OF GRAPHIC MATTER;ΑΝΑΛΩΣΙΜΑ ΓΡΑΦΙΚΗΣ ΥΛΗΣ;VERBRAUCH VON GRAFISCHEM / HANDSCHRIFTLICHEM MATERIAL
+
+ΑΝΑΛΩΣΙΜΑ ΘΕΡΜΙΚΩΝ ΕΚΤΥΠΩΤΩΝ;CONSUMABLE OF THERMIC PRINTERS;ΑΝΑΛΩΣΙΜΑ ΘΕΡΜΙΚΩΝ ΕΚΤΥΠΩΤΩΝ;VERBRAUCH VON THERMISCHEN DRUCKERN
+
+ΑΝΑΛΩΣΙΜΑ ΜΗΧΑΝΩΝ;CONSUMABLE OF MACHINES;ΑΝΑΛΩΣΙΜΑ ΜΗΧΑΝΩΝ;VERBRAUCH VON MASCHINEN
+
+ΑΝΤΑΛΛΑΚΤΙΚΑ;PARTS;ΑΝΤΑΛΛΑΚΤΙΚΑ;ERSATZTEILE
+
+ΑΝΤΑΛΛΑΚΤΙΚΑ INKJET;PARTS INKJET;ΑΝΤΑΛΛΑΚΤΙΚΑ INKJET;TINTENSTRAHL-ERSATZTEILE
+
+ΑΞΕΣΟΥΑΡ COMPUTERS;ACCESSORY COMPUTERS;ΑΞΕΣΟΥΑΡ COMPUTERS;ZUBEHOAR FUAR COMPUTER
+
+ΑΞΕΣΟΥΑΡ ΒΙΒΛΙΟΔΕΣΙΑΣ;ACCESSORY OF BOOKBINDING;ΑΞΕΣΟΥΑΡ ΒΙΒΛΙΟΔΕΣΙΑΣ;ZUBEHOAR FUAR BUCHBINDEREI
+
+ΑΞΕΣΟΥΑΡ ΓΡΑΦΕΙΟΥ;ACCESSORY OF OFFICE;ΑΞΕΣΟΥΑΡ ΓΡΑΦΕΙΟΥ;ZUBEHUAR FUAR BUARO
+
+ΑΞΕΣΟΥΑΡ Η/Υ-ΚΙΝΗΤΑ;ACCESSORY PC-MOBILE;ΑΞΕΣΟΥΑΡ Η/Υ-ΚΙΝΗΤΑ;ZUBEHUAR FUAR MOBILTELEFONE UND PC
+
+ΑΞΕΣΟΥΑΡ ΚΙΝΗΤΩΝ ΤΗΛΕΦΩΝΩΝ;ACCESSORIES OF MOBILE;ΑΞΕΣΟΥΑΡ ΚΙΝΗΤΩΝ ΤΗΛΕΦΩΝΩΝ;ZUBEHOAR FUAR MOBILTELEFONE
+
+ΑΞΕΣΟΥΑΡ ΠΛΑΣΤ/ΣΗΣ;LAMINATION ACCESSORIES;ΑΞΕΣΟΥΑΡ ΠΛΑΣΤ/ΣΗΣ;FOLIEN-ACCESSOIRES
+
+ΑΞΕΣΟΥΑΡ ΣΧΕΔΙΟΥ;ACCESSORY OF DRAWING;ΑΞΕΣΟΥΑΡ ΣΧΕΔΙΟΥ;ZUBEHUAR FUAR ZEICHNEN
+
+ΑΠΟΘΗΚΕΥΤΙΚΑ ΜΕΣΑ;STOCKING MEANS;ΑΠΟΘΗΚΕΥΤΙΚΑ ΜΕΣΑ;MITTEL ZUM LAGERN
+
+ΑΠΟΣΥΡΡΑΠΤΙΚΑ;STAPLERS REMOVER;ΑΠΟΣΥΡΡΑΠΤΙΚΑ;ENTHEFTER
+
+ΑΡΙΘΜΟΜΗΧΑΝΕΣ;CALCULATORS;ΑΡΙΘΜΟΜΗΧΑΝΕΣ;TASCHENRECHNER
+
+ΑΥΤΟΓΡΑΦΙΚΕΣ 1Φ-2Φ;SELF-WRITING 1F – 2F;ΑΥΤΟΓΡΑΦΙΚΕΣ 1Φ-2Φ;SICH SELBST ANMELDEN 1F-2F
+
+ΑΥΤΟΚΟΛΗΤΕΣ ΤΑΙΝΙΕΣ;ADHESIVE TAPE;ΑΥΤΟΚΟΛΗΤΕΣ ΤΑΙΝΙΕΣ;KLEBEBAND
+
+ΑΥΤΟΚΟΛΛΗΤΕΣ ΕΤΙΚΕΤΕΣ;SELF-ADHESIVE LABELS;ΑΥΤΟΚΟΛΛΗΤΕΣ ΕΤΙΚΕΤΕΣ;SELBSTKLEBENDE ETIKETTEN
+
+ΒΑΣΕΙΣ ΑΥΤΟΚ/ΤΗΣ ΤΑΙΝΙΑΣ;STANDS FOR SELF-ADHESIVE TAPE;ΒΑΣΕΙΣ ΑΥΤΟΚ/ΤΗΣ ΤΑΙΝΙΑΣ;KLEBEBANDGESTELL
+
+ΒΑΣΙΚΑ ΕΙΔΗ ΓΡΑΦΕΙΟΥ;BASIC EQUIPMENT OF OFFICE;ΒΑΣΙΚΑ ΕΙΔΗ ΓΡΑΦΕΙΟΥ;GRUNDAUSSTATTUNG EINES BUAROS
+
+ΒΙΒΛΙΟΔΕΣΙΑ-ΠΛΑΣΤΙΚΟΠΟΙΗΣΗ;BOOKBINDING-LAMINATING;ΒΙΒΛΙΟΔΕΣΙΑ-ΠΛΑΣΤΙΚΟΠΟΙΗΣΗ;BUCHBINDEREI-LAMINIEREN
+
+ΒΙΒΛΙΟΔΕΤΙΚΩΝ ΘΕΡΜΟΚΟΛΛΗΣΗΣ;ADHESIVE BINDING;ΒΙΒΛΙΟΔΕΤΙΚΩΝ ΘΕΡΜΟΚΟΛΛΗΣΗΣ;KLEBEBINDUNG
+
+ΒΙΒΛΙΟΔΕΤΙΚΩΝ ΣΠΙΡΑΛ;SPIRAL BINDING;ΒΙΒΛΙΟΔΕΤΙΚΩΝ ΣΠΙΡΑΛ;SPIRALBINDUNG
+
+ΓΚΙΛΟΤΙΝΕΣ;GUILLOTINE;ΓΚΙΛΟΤΙΝΕΣ;FALLBEIL- (PAPIER)SCHNEIDEMASCHINE
+
+ΓΡΑΦΙΚΑ;GRAPHIC;ΓΡΑΦΙΚΑ;GRAPHIK
+
+ΓΡΑΦΙΚΩΝ ΤΕΧΝΩΝ;GRAPHIC ARTS;ΓΡΑΦΙΚΩΝ ΤΕΧΝΩΝ;GRAPHIK
+
+ΔΑΚΤΥΛΙΟΙ ΠΛΑΣΤΙΚΟΙ;DACTYL PLASTIC;ΔΑΚΤΥΛΙΟΙ ΠΛΑΣΤΙΚΟΙ;PLASTIK-DAKTYLUS
+
+ΔΑΚΤΥΛΙΟΙ ΣΥΡΜΑΤΙΝΟΙ;DACTYL WIRE-ROPE;ΔΑΚΤΥΛΙΟΙ ΣΥΡΜΑΤΙΝΟΙ;DRAHTSEIL-DAKTYLUS
+
+ΔΕΔΟΜΕΝΩΝ;DATA;ΔΕΔΟΜΕΝΩΝ;DATEN
+
+ΔΕΙΓΜΑΤΑ;SAMPLES;ΔΕΙΓΜΑΤΑ;PROBEN
+
+ΔΕΙΚΤΕΣ PROJECTOR;OFFICE POINTERS;ΔΕΙΚΤΕΣ PROJECTOR;BUARO-POINTER
+
+ΔΙΑΚΟΡΕΥΤΕΣ;PERFORATOR;ΔΙΑΚΟΡΕΥΤΕΣ;BUAROLOCHER
+
+ΔΙΑΦΑΝΕΙΑ ΣΧΕΔΙΟΥ;DRAWING TRANSPARENT PAPER;ΔΙΑΦΑΝΕΙΑ ΣΧΕΔΙΟΥ;ZEICHNUNGSTRANSPARENZ
+
+ΔΙΑΦΑΝΕΙΕΣ;TRANSPARENCIES;ΔΙΑΦΑΝΕΙΕΣ;TRANSPARENZ
+
+ΔΙΑΦΑΝΕΙΕΣ CAD/CAM;TRANSPARENCIES CAD/CAM;ΔΙΑΦΑΝΕΙΕΣ CAD/CAM;CAD/CAM TRANSPARENZ
+
+ΔΙΑΦΑΝΕΙΕΣ ΣΧΕΔΙΟΥ;DRAWING TRANSPARENTPAPER;ΔΙΑΦΑΝΕΙΕΣ ΣΧΕΔΙΟΥ;ZEICHNUNGSTRANSPARENZ
+
+ΔΙΑΦΑΝΕΙΕΣ ΦΙΛΜ;TRANSPARENCIES FILM;ΔΙΑΦΑΝΕΙΕΣ ΦΙΛΜ;RANSPARENZFILM
+
+ΔΙΑΦΟΡΑ;VARIOUS/DIVERS;ΔΙΑΦΟΡΑ;VERSCHIEDENE
+
+ΔΙΑΦΟΡΑ ORIGINAL;VARIOUS ORIGINAL;ΔΙΑΦΟΡΑ ORIGINAL;VERSCHIEDENE ORIGINALE
+
+ΔΙΑΦΟΡΑ ΕΞΩΦΥΛΛΑ;VARIOUS COVERS;ΔΙΑΦΟΡΑ ΕΞΩΦΥΛΛΑ;VERSCHIEDENE TITELBLEATTER
+
+ΔΙΑΦΟΡΑ ΜΗΧΑΝΗΜΑΤΑ ΠΛΑΣΤ/ΣΗΣ;VARIOUS INSTRUMENTS PLAST/SIS;ΔΙΑΦΟΡΑ ΜΗΧΑΝΗΜΑΤΑ ΠΛΑΣΤ/ΣΗΣ;VERSCHIEDENE INSTRUMENTE FUAR LAMINIEREN
+
+ΔΙΑΦΟΡΑ ΦΩΤΟΤΥΠΙΑΣ;DIFFERENCE OF PHOTOCOPY;ΔΙΑΦΟΡΑ ΦΩΤΟΤΥΠΙΑΣ;UNTERSCHIED DER PHOTOKOPIEN
+
+ΔΙΑΦΟΡΕΣ;DIFFERENCES;ΔΙΑΦΟΡΕΣ;UNTERSCHIEDE
+
+ΔΙΑΦΟΡΟΙ;VARIOUS;ΔΙΑΦΟΡΟΙ;VERSCHIEDENE / DIVERSE
+
+ΔΙΟΡΘΩΤΙΚΑ-ΓΟΜΕΣ;CORRECTIONS – RUBBER / ERASER;ΔΙΟΡΘΩΤΙΚΑ-ΓΟΜΕΣ;VERBESSERUNG – RADIERGUMMI
+
+ΔΙΠΛΗΣ ΟΨΗΣ;DOUBLE ASPECT;ΔΙΠΛΗΣ ΟΨΗΣ;DOPPEL-ANSICHT
+
+ΔΙΣΚΕΤΕΣ;DISCS;ΔΙΣΚΕΤΕΣ;DISKETTEN
+
+ΔΙΣΚΟΙ ΕΓΓΡΑΦΩΝ;DOCUMENTS TRAYS;ΔΙΣΚΟΙ ΕΓΓΡΑΦΩΝ;DOKUMENTENFACH
+
+ΔΙΦΥΛΛΑ ΠΛΑΣΤ/ΣΗΣ;LAMINATIONS TWO-SIDE;ΔΙΦΥΛΛΑ ΠΛΑΣΤ/ΣΗΣ;LAMINIERBLEATTER
+
+ΔΙΦΥΛΛΕΣ ΧΗΜΙΚΕΣ;TWO-SIDED CHEMICAL;ΔΙΦΥΛΛΕΣ ΧΗΜΙΚΕΣ;ZWEISEITIGE CHEMIKALIE
+
+ΔΙΦΥΛΛΟ;TWO-SIDED;ΔΙΦΥΛΛΟ;ZWEISEITIG
+
+ΔΩΡΕΑΝ;FREE OF CHARGE;ΔΩΡΕΑΝ;GRATIS
+
+ΕΙΔΗ COMPUTER;TYPES COMPUTER;ΕΙΔΗ COMPUTER;ARTEN VON COMPUTER
+
+ΕΙΔΗ ΑΡΧΕΙΟΘΕΤΗΣΗΣ;TYPES OF RECORD KEEPING;ΕΙΔΗ ΑΡΧΕΙΟΘΕΤΗΣΗΣ;ARTEN VON AUFBEWAHRUNG
+
+ΕΙΔΗ ΓΡΑΦΕΙΟΥ;SPECIES OF OFFICE;ΕΙΔΗ ΓΡΑΦΕΙΟΥ;ARTEN VON BUAROS
+
+ΕΙΔΗ ΣΥΣΚΕΥΑΣΙΑΣ;TYPES OF PACKING GOODS;ΕΙΔΗ ΣΥΣΚΕΥΑΣΙΑΣ;VERPACKUNGSARTEN
+
+ΕΚΤΥΠΩΤΕΣ-PLOTTER;PRINTERS-PLOTTER;ΕΚΤΥΠΩΤΕΣ-PLOTTER;DRUCKER – PLOTTER
+
+ΕΛΑΣΜΑ;LAMINA;ΕΛΑΣΜΑ;PLATTE
+
+ΕΝΤΥΠΑ ΛΟΓΙΣΤΗΡΙΟΥ;FORMS OF ACCOUNTS DEPARTMENT;ΕΝΤΥΠΑ ΛΟΓΙΣΤΗΡΙΟΥ;ABRECHNUNGSARTEN
+
+ΕΞΑΡΤΗΜΑΤΑ ΕΚΤΥΠΩΤΩΝ;ELEMENTS OF PRINTERS;ΕΞΑΡΤΗΜΑΤΑ ΕΚΤΥΠΩΤΩΝ;BESTANDTEILE VON DRUCKERN
+
+ΕΞΑΡΤΗΜΑΤΑ ΕΞΟΠΛΙΣΜΟΥ ΓΡΑΦΕΙΩΝ;ELEMENTS OF EQUIPMENT OF OFFICES;ΕΞΑΡΤΗΜΑΤΑ ΕΞΟΠΛΙΣΜΟΥ ΓΡΑΦΕΙΩΝ;BESTANDTEILE DER GRUNDAUSSTATTUNG VON BUAROS
+
+ΕΞΟΠΛΙΣΜΟΣ ΣΧΕΔΙΟΥ;EQUIPMENT OF DRAWING;ΕΞΟΠΛΙΣΜΟΣ ΣΧΕΔΙΟΥ;ZEICHENAUSSTATTUNG
+
+ΕΞΩΦΥΛΛΑ ΒΙΒΛΙΟΔΕΣΙΑΣ;COVERS OF BOOKBINDING;ΕΞΩΦΥΛΛΑ ΒΙΒΛΙΟΔΕΣΙΑΣ;TITELBLEATTER VON BUCHBINDEN
+
+ΕΠΕΞΕΡΓΑΣΤΕΣ CPU;PROCESSORS CPU;ΕΠΕΞΕΡΓΑΣΤΕΣ CPU;CPU PROZESSOREN
+
+ΕΠΙΠΛΑ-ΕΞΟΠΛΙΣΜΟΣ;FURNITURES-EQUIPMENT;ΕΠΙΠΛΑ-ΕΞΟΠΛΙΣΜΟΣ;MOABEL – AUSSTATTUNG
+
+ΕΠΙΠΛΑ ΗΛΕΚΤΡΟΝΙΚΩΝ ΥΠΟΛΟΓΙΣΤΩΝ;FURNITURES OF COMPUTERS;ΕΠΙΠΛΑ ΗΛΕΚΤΡΟΝΙΚΩΝ ΥΠΟΛΟΓΙΣΤΩΝ;MOABEL FUAR COMPUTER
+
+ΕΠΙΣΤΟΛΟΧΑΡΤΑ;NOTE PAPER;ΕΠΙΣΤΟΛΟΧΑΡΤΑ;BRIEFPAPIER
+
+ΕΤΙΚΕΤΕΣ ΕΤΙΚΕΤΟΓΡΑΦΟΥ – BARCODE;BARCODE LABELS;ΕΤΙΚΕΤΕΣ ΕΤΙΚΕΤΟΓΡΑΦΟΥ – BARCODE;STRICHCODEETIKETTEN
+
+ΕΤΙΚΕΤΕΣ ΜΗΧΑΝΟΓΡΑΦΗΣΗΣ;LABELS OF COMPUTERISATION;ΕΤΙΚΕΤΕΣ ΜΗΧΑΝΟΓΡΑΦΗΣΗΣ;ETIKETTEN FUAR COMPUTERISIERUNG
+
+ΕΤΙΚΕΤΟΓΡΑΦΟΙ;LABEL PRINTER;ΕΤΙΚΕΤΟΓΡΑΦΟΙ;ETIKETTENDRUCKER
+
+ΕΥΡΕΤΗΡΙΑ;INDICES;ΕΥΡΕΤΗΡΙΑ;DIE INDICES
+
+ΖΕΛΑΤΙΝΕΣ;GELATINES;ΖΕΛΑΤΙΝΕΣ;GELATINEN
+
+ΗΜΕΡΟΛΟΓΙΑ;TIMETABLES;ΗΜΕΡΟΛΟΓΙΑ;KALENDER
+
+ΗΧΕΙΑ;SPEAKER / LOUDSPEAKER;ΗΧΕΙΑ;BOXEN / LAUTSPRECHER
+
+ΗΧΕΙΑ-MULTIMEDIA;MULTIMEDIA – LOUDSPEAKER;ΗΧΕΙΑ-MULTIMEDIA;MULTIMEDIA-LAUTSPRECHER
+
+ΗΧΟΥ;SOUND;ΗΧΟΥ;TON
+
+ΘΕΡΜΙΚΕΣ;THERMIC;ΘΕΡΜΙΚΕΣ;THERMISCH
+
+ΘΕΡΜΟΜΕΤΑΦΟΡΑ;THERMAL  TRANSFER;ΘΕΡΜΟΜΕΤΑΦΟΡΑ;WEARMEUABERTRAGUNG
+
+ΘΕΡΜΟΜΕΤΑΦΟΡΑ INKJET;INKJET THERMAL TRANSFER;ΘΕΡΜΟΜΕΤΑΦΟΡΑ INKJET;TINTENWEARMEZUFUHR
+
+ΘΗΚΕΣ;COVER / ENVELOPE;ΘΗΚΕΣ;HUALLE / UMSCHLAG
+
+ΘΗΚΕΣ CD-ΔΙΣΚΕΤΩΝ;CD-COVER;ΘΗΚΕΣ CD-ΔΙΣΚΕΤΩΝ;CD-HUALLEN
+
+ΘΗΚΕΣ ΓΙΑ ΧΑΡΤΑΚΙΑ ΣΗΜ/ΣΕΩΝ;COVER FOR  MEMO;ΘΗΚΕΣ ΓΙΑ ΧΑΡΤΑΚΙΑ ΣΗΜ/ΣΕΩΝ;HUALLEN FUAR NOTIZZETTEL
+
+ΚΑΘΑΡΙΣΤΙΚΑ-ΚΑΛΥΜΑΤΑ;COVERS AND CLEANERS;ΚΑΘΑΡΙΣΤΙΚΑ-ΚΑΛΥΜΑΤΑ;HUALLEN – REINIGUNGSPRODUKTE
+
+ΚΑΛΑΘΙΑ ΑΧΡΗΣΤΩΝ;BASKETS USELESS;ΚΑΛΑΘΙΑ ΑΧΡΗΣΤΩΝ;ABFALLKOERBE
+
+ΚΑΛΥΜΜΑΤΑ ΒΙΒΛ/ΣΙΑΣ ΘΕΡΜ/ΛΗΣΗΣ; THERMAL BINDING COVERS;ΚΑΛΥΜΜΑΤΑ ΒΙΒΛ/ΣΙΑΣ ΘΕΡΜ/ΛΗΣΗΣ;WEARMEBINDEHUALLEN
+
+ΚΑΛΩΔΙΑ-ADAPTORS;CABLES-ADAPTORS;ΚΑΛΩΔΙΑ-ADAPTORS;KABEL – ANSCHLUSS
+
+ΚΑΡΕΚΛΕΣ;CHAIRS;ΚΑΡΕΚΛΕΣ;STUEHLE
+
+ΚΑΡΤΕΣ ΓΡΑΦΙΚΩΝ;GRAPHIC CARDS;ΚΑΡΤΕΣ ΓΡΑΦΙΚΩΝ;GRAFIKKARTEN
+
+ΚΑΡΤΕΣ ΔΙΚΤΥΟΥ;CARDS OF NETWORK;ΚΑΡΤΕΣ ΔΙΚΤΥΟΥ;NETZWERKKARTEN
+
+ΚΑΡΦΙΤΣΕΣ-ΠΙΝΕΖΕΣ;PINS-THUMBTACKS;ΚΑΡΦΙΤΣΕΣ-ΠΙΝΕΖΕΣ;NADELN – REISSNAEGEL
+
+ΚΑΣΕΤΕΣ;CASSETTES;ΚΑΣΕΤΕΣ;KASSETTEN
+
+ΚΑΤΑΣΤΡΟΦΕΙΣ ΕΓΓΡΑΦΩΝ;DOCUMENT DESTROYER;ΚΑΤΑΣΤΡΟΦΕΙΣ ΕΓΓΡΑΦΩΝ;DATENVERNICHTER
+
+ΚΕΡΜΑΤΟΘΗΚΕΣ-ΧΡΗΜΑΤΟΚΙΒΩΤΙΑ;PURSE-SAFE;ΚΕΡΜΑΤΟΘΗΚΕΣ-ΧΡΗΜΑΤΟΚΙΒΩΤΙΑ;GELDBEUTEL-TRESOR
+
+ΚΛΑΣΕΡ;CLASSER;ΚΛΑΣΕΡ;KLASSER
+
+ΚΛΑΣΕΡ 2 ΚΡΙΚΩΝ;CLASSER OF 2 RINGS;ΚΛΑΣΕΡ 2 ΚΡΙΚΩΝ;KLASSER MIT 2 RINGEN
+
+ΚΛΑΣΕΡ 4 ΚΡΙΚΩΝ;CLASSER OF 4 RINGS;ΚΛΑΣΕΡ 4 ΚΡΙΚΩΝ;KLASSER MIT 4 RINGEN
+
+ΚΛΑΣΕΡ ΜΗΧΑΝΟΓΡΑΦΙΚΟΥ ΧΑΡΤΙΟΥ;CLASER OF COMPUTER PAPER;ΚΛΑΣΕΡ ΜΗΧΑΝΟΓΡΑΦΙΚΟΥ ΧΑΡΤΙΟΥ;CLASER VON COMPUTERPAPIER
+
+ΚΟΛΛΕΣ;GLUES;ΚΟΛΛΕΣ;LEIME
+
+ΚΟΝΚΑΡΔΕΣ;BADGES;ΚΟΝΚΑΡΔΕΣ;MARKE/DIENSTAUSWEIS
+
+ΚΟΠΙΔΙΑ-ΨΑΛΙΔΙΑ-ΞΥΣΤΡΕΣ;CUTTER-SCISSORS-SHARPENER;ΚΟΠΙΔΙΑ-ΨΑΛΙΔΙΑ-ΞΥΣΤΡΕΣ;MESSER-SCHERE-SPITZER
+
+ΚΟΠΤΙΚΑ;CUTTINGLY;ΚΟΠΤΙΚΑ;SCHNEIDEGEREATE
+
+ΚΟΠΤΙΚΩΝ-ΚΑΤΑΣΤΡΟΦΕΩΝ;CUTTING-DESTROYER;ΚΟΠΤΙΚΩΝ-ΚΑΤΑΣΤΡΟΦΕΩΝ;SCHNEIDE-ZERSTOARER
+
+ΚΟΥΤΙ ΛΑΣΤΙΧΟ;BOX RUBBER;ΚΟΥΤΙ ΛΑΣΤΙΧΟ;GUMMIBOX
+
+ΚΟΥΤΙ ΜΕ ΚΟΥΜΠΙ;BOX WITH BUTTON;ΚΟΥΤΙ ΜΕ ΚΟΥΜΠΙ;KNOPFBEHUALTER
+
+ΚΟΥΤΙ ΜΕ ΚΡΕΜΑΣΤΟΥΣ ΦΑΚΕΛΟΥΣ;BOX WITH SUSPENDED RECORDS;ΚΟΥΤΙ ΜΕ ΚΡΕΜΑΣΤΟΥΣ ΦΑΚΕΛΟΥΣ;BOX FUAR HEANGEAKTEN
+
+ΚΟΥΤΙΑ ΔΙΑΦΟΡΑ;BOXES VARIOUS;ΚΟΥΤΙΑ ΔΙΑΦΟΡΑ;VERSCHIEDENE BOXEN
+
+ΚΡΕΜΑΣΤΟΙ;SUSPENDED;ΚΡΕΜΑΣΤΟΙ;HEANGEND
+
+ΛΑΣΤΙΧΑΚΙΑ;GUM;ΛΑΣΤΙΧΑΚΙΑ;GUMMIS
+
+ΛΥΣΕΙΣ ΔΙΚΤΥΟΥ;NETWORK SOLUTIONS;ΛΥΣΕΙΣ ΔΙΚΤΥΟΥ;NETZWERK LOASUNGEN
+
+ΜΑΡΚΑΔΟΡΟΙ;MARKERS;ΜΑΡΚΑΔΟΡΟΙ;MARKER
+
+ΜΕ ΕΛΑΣΜΑ & ΕΓΚΟΠΕΣ;WITH FOILS AND WARDS;ΜΕ ΕΛΑΣΜΑ & ΕΓΚΟΠΕΣ;MIT FOLIEN UND ZELLEN
+
+ΜΕ ΛΑΣΤΙΧΟ;WITH RUBBER;ΜΕ ΛΑΣΤΙΧΟ;MIT GUMMI
+
+ΜΕ ΣΟΥΣΤΑ;WITH SPRING;ΜΕ ΣΟΥΣΤΑ;MIT FEDER
+
+ΜΕΛΑΝΑΚΙΑ INKJET;INK CARTRIDGE;ΜΕΛΑΝΑΚΙΑ INKJET;TINTENPATRONE
+
+ΜΕΛΑΝΟΤΑΙΝΙΕΣ DOT-MATRIX;INK FILM DOT MATRIX;ΜΕΛΑΝΟΤΑΙΝΙΕΣ DOT-MATRIX;DRUCKFARBENFILM
+
+ΜΕΛΑΝΟΤΑΙΝΙΕΣ ΑΡΙΘΜ/ΝΩΝ;INK FILM FOR CALCULATORS;ΜΕΛΑΝΟΤΑΙΝΙΕΣ ΑΡΙΘΜ/ΝΩΝ;DRUCKFARBENFILM FUAR TASCHENRECHNER
+
+ΜΕΛΑΝΟΤΑΙΝΙΕΣ ΤΑΜΕΙΑΚΩΝ;INK FILM FOR CASHIER MACHINES;ΜΕΛΑΝΟΤΑΙΝΙΕΣ ΤΑΜΕΙΑΚΩΝ;DRUCKFARBENFILM FUAR KASSENAUTOMATEN
+
+ΜΕΤΡΑ-ΧΑΡΑΚΕΣ- ΔΙΑΒΗΤΕΣ;POCKET RULE-RULER-COMPASSES;ΜΕΤΡΑ-ΧΑΡΑΚΕΣ- ΔΙΑΒΗΤΕΣ;METERSTAB-LINEAL-ZIRKEL
+
+ΜΗΧΑΝΕΣ ΓΡΑΦΕΙΟΥ;MACHINES OF OFFICE;ΜΗΧΑΝΕΣ ΓΡΑΦΕΙΟΥ;BUAROGEREATE
+
+ΜΗΧΑΝΗΜΑΤΑ CHANNEL;INSTRUMENTS CHANNEL;ΜΗΧΑΝΗΜΑΤΑ CHANNEL;INSTRUMENTE CHANNEL
+
+ΜΗΧΑΝΗΜΑΤΑ PIGMANT-PERFORE;INSTRUMENTS PIGMANT-PERFORE;ΜΗΧΑΝΗΜΑΤΑ PIGMANT-PERFORE;INSTRUMENTE PIGMANT-PERFORE
+
+ΜΗΧΑΝΗΜΑΤΑ PLOTTER;INSTRUMENTS PLOTTER;ΜΗΧΑΝΗΜΑΤΑ PLOTTER;PLOTTER INSTRUMENTE
+
+ΜΗΧΑΝΗΜΑΤΑ ΒΙΒΛ/ΣΙΑΣ ΘΕΡΜ/ΛΗΣΗΣ;THERMAL BINDING MACHINES;ΜΗΧΑΝΗΜΑΤΑ ΒΙΒΛ/ΣΙΑΣ ΘΕΡΜ/ΛΗΣΗΣ;WEARMEBINDEMASCHINEN
+
+ΜΗΧΑΝΗΜΑΤΑ ΒΙΒΛ/ΣΙΑΣ ΣΠΙΡΑΛ;BINDING MACHINES WITH SPIRAL RINGS;ΜΗΧΑΝΗΜΑΤΑ ΒΙΒΛ/ΣΙΑΣ ΣΠΙΡΑΛ;SPIRALBINDEMASCHINEN
+
+ΜΗΧΑΝΗΜΑΤΑ ΘΕΡΜΟΜΕΤΑΦΟΡΑΣ;THERMAL TRANSFER MACHINES;ΜΗΧΑΝΗΜΑΤΑ ΘΕΡΜΟΜΕΤΑΦΟΡΑΣ;GEREATE FUAR WEARMEUABERTRAGUNG
+
+ΜΗΧΑΝΗΜΑΤΑ ΠΛΑΣΤ/ΣΗΣ;LAMINATION MACHINES;ΜΗΧΑΝΗΜΑΤΑ ΠΛΑΣΤ/ΣΗΣ;LAMINIERGEREATE
+
+ΜΗΧΑΝΟΓΡΑΦΙΚΟ ΧΑΡΤΙ;DATA FORM PAPERS;ΜΗΧΑΝΟΓΡΑΦΙΚΟ ΧΑΡΤΙ;DATENVORDRUCKPAPIER
+
+ΜΙΚΡΕΣ ΧΕΙΡΟΣ;HANDY;ΜΙΚΡΕΣ ΧΕΙΡΟΣ;MOBILTELEFON
+
+ΜΙΚΡΟΦΩΝΑ;MICROPHONES;ΜΙΚΡΟΦΩΝΑ;MIKROPHON
+
+ΜΝΗΜΗ RAM-CARD RAM;RAM CARD;ΜΝΗΜΗ RAM-CARD RAM;RAM KARTE
+
+ΜΟΛΥΒΙΑ;PENCILS;ΜΟΛΥΒΙΑ;BLEISTIFTE
+
+ΜΟΛΥΒΟΘΗΚΕΣ;PENCILS COVER;ΜΟΛΥΒΟΘΗΚΕΣ;BLEISTIFTHUALLE
+
+ΜΟΛΥΒΟΘΗΚΕΣ-ΒΑΣΕΙΣ ΟΡΓΑΝΩΣΗΣ;PENCILS COVER-STANDS;ΜΟΛΥΒΟΘΗΚΕΣ-ΒΑΣΕΙΣ ΟΡΓΑΝΩΣΗΣ;BLEISTIFTHUALLE-STANDS
+
+ΜΟΝΟΦΥΛΛΕΣ ΑΠΛΕΣ;ONE SHEET, SIMPLE;ΜΟΝΟΦΥΛΛΕΣ ΑΠΛΕΣ;EINFACHE EINZELSEITEN
+
+ΜΟΝΟΦΥΛΛΟ;SINGLE-SHEET;ΜΟΝΟΦΥΛΛΟ;EINZELBLATT
+
+ΜΠΑΤΑΡΙΕΣ-ΣΤΑΘΕΡΟΠΟΙΗΤΕΣ ΤΑΣΗΣ;BATTERIES-UPS;ΜΠΑΤΑΡΙΕΣ-ΣΤΑΘΕΡΟΠΟΙΗΤΕΣ ΤΑΣΗΣ;BATTERIEN-UPS
+
+ΝΕΡΟΜΠΟΓΙΕΣ-ΚΕΡΟΜΠΟΓΙΕΣ;WATERCOLOURS-WAXCOLOURS;ΝΕΡΟΜΠΟΓΙΕΣ-ΚΕΡΟΜΠΟΓΙΕΣ;WASSERFARBEN-WACHSFARBEN
+
+ΝΤΟΣΙΕ ΔΙΑΦΟΡΑ;VARIOUS FOLDER;ΝΤΟΣΙΕ ΔΙΑΦΟΡΑ;VERSCHIEDENE ORDNER
+
+ΝΤΟΣΙΕ ΕΛΑΣΜΑ;DOSSIER WITH FOILS;ΝΤΟΣΙΕ ΕΛΑΣΜΑ;FOLIENORDNER
+
+ΝΤΟΣΙΕ ΚΛΙΠΣ;DOSSIERS WITH CLIPS;ΝΤΟΣΙΕ ΚΛΙΠΣ;CLIP-ORDNER
+
+ΝΤΟΣΙΕ ΣΟΥΠΛ;DOSSIER;ΝΤΟΣΙΕ ΣΟΥΠΛ;ORDNER
+
+ΞΗΡΟΓΡΑΦΙΑΣ  LASER;LASER FOR XEROGRAPHY;ΞΗΡΟΓΡΑΦΙΑΣ  LASER;LASER FUAR KOPIERVERFAHREN
+
+ΞΥΛΟΜΠΟΓΙΕΣ;WOODEN PAINTS;ΞΥΛΟΜΠΟΓΙΕΣ;HOLZFARBEN
+
+ΟΘΟΝΕΣ;MONITORS;ΟΘΟΝΕΣ;MONITORE
+
+ΟΙΚΟΛΟΓΙΚΟ;ECOLOGICAL;ΟΙΚΟΛΟΓΙΚΟ;OEKOLOGISCH
+
+ΟΡΓΑΝΩΣΗ;ORGANISATION;ΟΡΓΑΝΩΣΗ;ORGANISATION
+
+ΠΑΠΥΡΟΣ;PAPYRUS;ΠΑΠΥΡΟΣ;PAPYRUS
+
+ΠΕΡΙΦΕΡΙΑΚΑ;COMPUTER PERIPHERALS;ΠΕΡΙΦΕΡΙΑΚΑ;PERIPHERIEGEREATE
+
+ΠΙΑΣΤΡΕΣ;CLIPS;ΠΙΑΣΤΡΕΣ;KLAMMERN
+
+ΠΙΝΑΚΕΣ;TABLES;ΠΙΝΑΚΕΣ;TAFEL
+
+ΠΙΝΑΚΙΔΕΣ;PLATES;ΠΙΝΑΚΙΔΕΣ;PLATTEN
+
+ΠΙΣΤΟΛΙ ΣΥΣΚΕΥΑΣΙΑΣ;PACKING PISTOL;ΠΙΣΤΟΛΙ ΣΥΣΚΕΥΑΣΙΑΣ;VERPACKUNGSPISTOLE
+
+ΠΛΑΣΤΙΚΟΠΟΙΗΤΩΝ;LAMINATORS;ΠΛΑΣΤΙΚΟΠΟΙΗΤΩΝ;KASCHIERMASCHINE, LAMINIERGEREAT
+
+ΠΛΗΚΤΡΟΛΟΓΙΑ;KEYBOARDS;ΠΛΗΚΤΡΟΛΟΓΙΑ;TASTARUREN
+
+ΠΡΟΒΟΛΗ-ΠΑΡΟΥΣΙΑΣΗ;PROJECTION-PRESENTATION;ΠΡΟΒΟΛΗ-ΠΑΡΟΥΣΙΑΣΗ;PROJEKTION–PREASENTATION
+
+ΠΡΟΤΥΠΩΜΕΝΑ ΕΝΤΥΠΑ;PRE PRINTED MATTERS;ΠΡΟΤΥΠΩΜΕΝΑ ΕΝΤΥΠΑ;VORGEDRUCKTE MATERIALIEN
+
+ΡΑΧΕΣ ΒΙΒΛΙΟΔΕΣΙΑΣ;RIDGES OF BOOKBINDING;ΡΑΧΕΣ ΒΙΒΛΙΟΔΕΣΙΑΣ;GRATE FUAR BUCHBINDEREI
+
+ΡΙΖΟΧΑΡΤΟ ΣΧΕΔΙΟΥ;GLASSINE PAPER;ΡΙΖΟΧΑΡΤΟ ΣΧΕΔΙΟΥ;PERGAMENTPAPIER
+
+ΡΟΛΑ ΞΗΡΟΓΡΑΦΙΑΣ;ROLLS FOR XEROGRAPHY;ΡΟΛΑ ΞΗΡΟΓΡΑΦΙΑΣ;ROLLEN FUAR KOPIERVERFAHREN
+
+ΡΟΛΑ ΠΛΑΣΤ/ΣΗΣ;LAMINATING ROLLS;ΡΟΛΑ ΠΛΑΣΤ/ΣΗΣ;LAMINIERROLLEN
+
+ΡΟΛΑ ΨΥΧΡΗΣ ΠΛΑΣΤ/ΣΗΣ;COLD LAMINATING ROLLS;ΡΟΛΑ ΨΥΧΡΗΣ ΠΛΑΣΤ/ΣΗΣ;KALTLAMINIERROLLEN
+
+ΣΕΜΙΝΑΡΙΑ;SEMINARS;ΣΕΜΙΝΑΡΙΑ;SEMINARE
+
+ΣΚΛΗΡΟΙ ΔΙΣΚΟΙ;HARD DISKS;ΣΚΛΗΡΟΙ ΔΙΣΚΟΙ;FESTPLATTEN
+
+ΣΤΥΛΟ;PEN;ΣΤΥΛΟ;KUGELSCHREIBER
+
+ΣΥΜΒΑΤΑ;COMPATIBLE;ΣΥΜΒΑΤΑ;KOMPATIBEL
+
+ΣΥΜΒΑΤΕΣ;COMPATIBLE;ΣΥΜΒΑΤΕΣ;KOMPATIBEL
+
+ΣΥΝΔΕΤΗΡΕΣ-CLIPS;FASTENERS AND CLIPS;ΣΥΝΔΕΤΗΡΕΣ-CLIPS;CLIPS UND VERSCHLUASSE
+
+ΣΥΡΜΑΤΑ ΣΥΡΡΑΠΤΙΚΩΝ;WIRES OF STAPLERS;ΣΥΡΜΑΤΑ ΣΥΡΡΑΠΤΙΚΩΝ;HEFTDRAHT
+
+ΣΥΡΡΑΠΤΙΚΑ;STAPLERS;ΣΥΡΡΑΠΤΙΚΑ;HEFTMASCHINEN
+
+ΣΥΡΡΑΠΤΙΚΑ -ΔΙΑΚΟΡΕΥΤΕΣ;STAPLER- PERFORATOR;ΣΥΡΡΑΠΤΙΚΑ -ΔΙΑΚΟΡΕΥΤΕΣ;HEFTMASCHINE-BIAROLOCHER
+
+ΣΥΡΤΑΡΙΕΡΕΣ;STAPLERS;ΣΥΡΤΑΡΙΕΡΕΣ;HEFTMASCHINEN
+
+ΣΧΕΔΙΑΣΤΗΡΙΑ;DRAWING TABLES;ΣΧΕΔΙΑΣΤΗΡΙΑ;ZEICHENTISCH, ZEICHENBRETT
+
+ΣΧΕΔΙΟΘΗΚΕΣ;DESIGN BOX;ΣΧΕΔΙΟΘΗΚΕΣ;AUSFUAHRUNGSBOX
+
+ΣΧΟΛΙΚΑ;SCHOOL ITEMS;ΣΧΟΛΙΚΑ;SCHULSACHEN
+
+ΤΑΜΕΙΑΚΩΝ;FISCAL, CASH;ΤΑΜΕΙΑΚΩΝ;KASSE
+
+ΤΑΜΠΟΝ;STAMP PAT;ΤΑΜΠΟΝ;STEMPELKISSEN
+
+ΤΕΤΡΑΦΥΛΛΟ;4 SHEETS;ΤΕΤΡΑΦΥΛΛΟ;4 SEITEN
+
+ΤΡΙΦΥΛΛΟ;3 SHEETS;ΤΡΙΦΥΛΛΟ;3 SEITEN
+
+ΤΣΑΝΤΕΣ NOTEBOOK;BAGS NOTEBOOK;ΤΣΑΝΤΕΣ NOTEBOOK;NOTEBOOK TASCHEN
+
+ΥΛΙΚΑ CAD/CAM;MATERIALS CAD/CAM;ΥΛΙΚΑ CAD/CAM;CAD/CAM ARTIKEL
+
+ΥΛΙΚΑ PLOTTER;MATERIALS PLOTTER;ΥΛΙΚΑ PLOTTER;ARTIKEL FUAR PLOTTER
+
+ΥΛΙΚΑ ΒΙΒΛΙΟΔΕΣΙΑΣ;MATERIALS OF BOOKBINDING;ΥΛΙΚΑ ΒΙΒΛΙΟΔΕΣΙΑΣ;ARTIKEL FUAR BUCHBINDEREI
+
+ΥΛΙΚΑ ΘΕΡΜΟΜΕΤΑΦΟΡΑΣ;THERMAL TRANSFER MATERIALS;ΥΛΙΚΑ ΘΕΡΜΟΜΕΤΑΦΟΡΑΣ;WEARMEUABERTRAGUNGSMATERIAL
+
+ΥΛΙΚΑ ΜΗΧΑΝΟΓΡΑΦΗΣΗΣ;MATERIALS OF COMPUTERISATION;ΥΛΙΚΑ ΜΗΧΑΝΟΓΡΑΦΗΣΗΣ;ARTIKEL FUAR COMPUTERISIERUNG
+
+ΥΛΙΚΑ ΠΛΑΣΤΙΚΟΠΟΙΗΣΗΣ;LAMINATING MATERIALS;ΥΛΙΚΑ ΠΛΑΣΤΙΚΟΠΟΙΗΣΗΣ;LAMINIER-MATERIAL
+
+ΥΦΑΣΜΑΤΙΝΕΣ;FABRIC;ΥΦΑΣΜΑΤΙΝΕΣ;STOFF
+
+ΦΑΚΕΛΟΙ;FOLDERS;ΦΑΚΕΛΟΙ;UMSCHLEAGE
+
+ΦΑΚΕΛΟΙ-ΕΠΙΣΤΟΛΟΧΑΡΤΑ;FOLDERS-NOTEPAPERS;ΦΑΚΕΛΟΙ-ΕΠΙΣΤΟΛΟΧΑΡΤΑ;UMSCHLEAGE-BRIEFPAPIER
+
+ΦΑΚΕΛΟΙ ΑΛΛΗΛΟΓΡΑΦΙΑΣ;CORRESPONDENCE OR COMMUNICATION ENVELOPS;ΦΑΚΕΛΟΙ ΑΛΛΗΛΟΓΡΑΦΙΑΣ;BRIEFUMSCHLEAGE
+
+ΦΑΚΕΛΟΙ ΚΥΨΕΛΕΣ ΑΕΡΑ;FOLDERS BEEHIVES OF AIR;ΦΑΚΕΛΟΙ ΚΥΨΕΛΕΣ ΑΕΡΑ;LUFTPOLSTERTASCHEN
+
+ΦΑΚΕΛΟΙ ΣΑΚΟΥΛΑ;FOLDERS SACHET;ΦΑΚΕΛΟΙ ΣΑΚΟΥΛΑ;UMSCHLAGTEATE
+
+ΦΙΛΜ COPY ΕΓΧΡΩΜΟ;FILM COPY COLOURED;ΦΙΛΜ COPY ΕΓΧΡΩΜΟ;FARBIGER FILM
+
+ΦΙΛΜ LASER ΑΣΠΡΟΜΑΥΡΟ;FILM LASER BLACK/WHITE;ΦΙΛΜ LASER ΑΣΠΡΟΜΑΥΡΟ;LASERFILM SCHWARZWEISS
+
+ΦΙΛΜ LASER ΕΓΧΡΩΜΟ;FILM LASER COLOURED;ΦΙΛΜ LASER ΕΓΧΡΩΜΟ;LASERFILM FARBIG
+
+ΦΙΛΜ ΑΔΙΑΣΤΑΛΤΟ;SPACE LESS FILM;ΦΙΛΜ ΑΔΙΑΣΤΑΛΤΟ;STRETCHLESS FILM
+
+ΦΙΛΜ ΣΥΣΚΕΥΑΣΙΑΣ;FILM OF PACKING;ΦΙΛΜ ΣΥΣΚΕΥΑΣΙΑΣ;VERPACKTER FILM
+
+ΦΙΛΜ ΧΡΥΣΟΤΥΠΙΑΣ;FILM FOR GOLD PRINTING;ΦΙΛΜ ΧΡΥΣΟΤΥΠΙΑΣ;GOLDDRUCKFILM
+
+ΦΙΛΤΡΑ ΟΘΟΝΗΣ;FILTERS OF MONITORS;ΦΙΛΤΡΑ ΟΘΟΝΗΣ;MONITORFILTER
+
+ΦΙΜΛ COPY ΑΣΠΡΟΜΑΥΡΟ;FILM FOR COPIERS BLACK/WHITE;ΦΙΜΛ COPY ΑΣΠΡΟΜΑΥΡΟ;SCHWARZ-WEISS DRUCKFILM
+
+ΦΥΛΑΔΕΣ;SHEETS;ΦΥΛΑΔΕΣ;BLEATTER
+
+ΦΥΛΛΑ ΨΥΧΡΗΣ ΠΛΑΣΤ/ΣΗΣ;SHEETS FOR COLD LAMINATING;ΦΥΛΛΑ ΨΥΧΡΗΣ ΠΛΑΣΤ/ΣΗΣ;BLEATTER FUAR KALTLAMINIEREN
+
+ΦΩΤΟΑΝΤΙΓΡΑΦΙΚΑ;COPIERS;ΦΩΤΟΑΝΤΙΓΡΑΦΙΚΑ;KOPIERER
+
+ΦΩΤΟΤΡΑΠΕΖΕΣ;LIGHT BANKS FOR SLIDES;ΦΩΤΟΤΡΑΠΕΖΕΣ;SLIDES BANKS
+
+ΧΑΡΤΑΚΙΑ ΣΗΜΕΙΩΣΕΩΝ;MEMOS;ΧΑΡΤΑΚΙΑ ΣΗΜΕΙΩΣΕΩΝ;NOTIZZETTEL
+
+ΧΑΡΤΙ CAD/CAM;PAPER CAD/CAN;ΧΑΡΤΙ CAD/CAM;PAPIER CAD/CAM
+
+ΧΑΡΤΙ COATED CAD/CAM;PAPER COATED CAD/CAM;ΧΑΡΤΙ COATED CAD/CAM;PAPIER COATED CAD/CAM
+
+ΧΑΡΤΙ ΓΙΑ ΕΓΧΡΩΜΑ;PAPER FOR COLOURED;ΧΑΡΤΙ ΓΙΑ ΕΓΧΡΩΜΑ;PAPIER FUAR FARBAUSDRUCK
+
+ΧΑΡΤΙ ΦΩΤΟΑΝΤΙΓΡΑΦΙΚΟ;COPY PAPER;ΧΑΡΤΙ ΦΩΤΟΑΝΤΙΓΡΑΦΙΚΟ;KOPIERPAPIER
+
+ΧΑΡΤΙΑ;PAPERS;ΧΑΡΤΙΑ;PAPIER
+
+ΧΑΡΤΙΑ-ΦΙΛΜ;PAPERS-FILM;ΧΑΡΤΙΑ-ΦΙΛΜ;PHOTOPAPIER
+
+ΧΑΡΤΙΑ-ΦΙΛΜ COPY-LASER;PAPERS-FILM COPY-LASER;ΧΑΡΤΙΑ-ΦΙΛΜ COPY-LASER;PAPIER-FILM COPY-LASER
+
+ΧΑΡΤΙΑ-ΦΙΛΜ INKJET;PAPERS-FILM INKJET;ΧΑΡΤΙΑ-ΦΙΛΜ INKJET;PAPIER-FILM INKJET
+
+ΧΑΡΤΙΑ ΓΡΑΦΙΚΩΝ ΤΕΧΝΩΝ;PAPERS OF GRAPHIC ARTS;ΧΑΡΤΙΑ ΓΡΑΦΙΚΩΝ ΤΕΧΝΩΝ;KUNSTPAPIER
+
+ΧΑΡΤΙΑ ΦΙΛΜ-INKJET;PAPERS FILM-INKJET;ΧΑΡΤΙΑ ΦΙΛΜ-INKJET;PAPIER-FILM INJET
+
+ΧΑΡΤΙΑ ΧΡΩΜΑΤΙΣΤΑ;PAPERS COLOURFUL;ΧΑΡΤΙΑ ΧΡΩΜΑΤΙΣΤΑ;FARBIGES PAPIER
+
+ΧΑΡΤΙΑ-ΦΙΛΜ ΑΜΜΩΝΙΑΣ;AMMONIAC FILM AND PAPERS;ΧΑΡΤΙΑ-ΦΙΛΜ ΑΜΜΩΝΙΑΣ;AMMONIAKALISCHER FILM – PAPIER
+
+ΧΑΡΤΙΝΕΣ;FROM PAPER;ΧΑΡΤΙΝΕΣ;AUS PAPIER
+
+ΧΑΡΤΟΤΑΙΝΙΕΣ FAX-TELEX;FAX-TELEX PAPER;ΧΑΡΤΟΤΑΙΝΙΕΣ FAX-TELEX;PAPIERROLLEN FAX-TELEX
+
